@@ -3,10 +3,12 @@
 	{
 		"id": "terralith:sakura_grove",
 		"required": false
-	},{
+	},
+	{
 		"id": "biomesoplenty:cherry_blossom_grove",
 		"required": false
-	},{
+	},
+	{
 		"id": "biomesoplenty:bamboo_grove",
 		"required": false
 	}

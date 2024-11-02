@@ -1,28 +1,10 @@
 {
   "values": [
-    {
-      "id": "minecraft:fern",
-      "required": false
-    },
-    {
-      "id": "minecraft:dead_bush",
-      "required": false
-    },
-    {
-      "id": "minecraft:sweet_berries",
-      "required": false
-    },
-    {
-      "id": "minecraft:brown_mushroom",
-      "required": false
-    },
-    {
-      "id": "minecraft:red_mushroom",
-      "required": false
-    },
-    {
-      "id": "minecraft:apple",
-      "required": false
-    }
+    "minecraft:fern",
+    "minecraft:dead_bush",
+    "minecraft:sweet_berries",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:apple"
   ]
 }

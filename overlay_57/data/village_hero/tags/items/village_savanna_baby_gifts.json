@@ -1,24 +1,9 @@
 {
   "values": [
-    {
-      "id": "minecraft:wheat_seeds",
-      "required": false
-    },
-    {
-      "id": "minecraft:armadillo_scute",
-      "required": false
-    },
-    {
-      "id": "minecraft:clay_ball",
-      "required": false
-    },
-    {
-      "id": "minecraft:wheat",
-      "required": false
-    },
-    {
-      "id": "minecraft:apple",
-      "required": false
-    }
+    "minecraft:wheat_seeds",
+    "minecraft:armadillo_scute",
+    "minecraft:clay_ball",
+    "minecraft:wheat",
+    "minecraft:apple"
   ]
 }

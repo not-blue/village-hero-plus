@@ -1,16 +1,7 @@
 {
   "values": [
-    {
-      "id": "minecraft:snowball",
-      "required": false
-    },
-    {
-      "id": "minecraft:beetroot",
-      "required": false
-    },
-    {
-      "id": "minecraft:beetroot_seeds",
-      "required": false
-    }
+    "minecraft:snowball",
+    "minecraft:beetroot",
+    "minecraft:beetroot_seeds"
   ]
 }

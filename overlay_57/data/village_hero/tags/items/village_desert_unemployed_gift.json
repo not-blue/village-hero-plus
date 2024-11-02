@@ -1,20 +1,8 @@
 {
   "values": [
-    {
-      "id": "#minecraft:sand",
-      "required": false
-    },
-    {
-      "id": "minecraft:bone_block",
-      "required": false
-    },
-    {
-      "id": "minecraft:cactus",
-      "required": false
-    },
-    {
-      "id": "minecraft:dead_bush",
-      "required": false
-    }
+    "#minecraft:sand",
+    "minecraft:bone_block",
+    "minecraft:cactus",
+    "minecraft:dead_bush"
   ]
 }

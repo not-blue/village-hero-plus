@@ -1,0 +1,11 @@
+{ "values": [
+	"minecraft:swamp",
+	{ 
+        "id": "biomesoplenty:bayou",
+        "required": false
+    },
+	{ 
+        "id": "terralith:orchid_swamp",
+        "required": false
+    }
+]}

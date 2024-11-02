@@ -1,36 +1,12 @@
 {
   "values": [
-    {
-      "id": "minecraft:podzol",
-      "required": false
-    },
-    {
-      "id": "minecraft:coarse_dirt",
-      "required": false
-    },
-    {
-      "id": "minecraft:mossy_cobblestone",
-      "required": false
-    },
-    {
-      "id": "minecraft:sweet_berries",
-      "required": false
-    },
-    {
-      "id": "minecraft:dead_bush",
-      "required": false
-    },
-    {
-      "id": "minecraft:brown_mushroom",
-      "required": false
-    },
-    {
-      "id": "minecraft:red_mushroom",
-      "required": false
-    },
-    {
-      "id": "minecraft:spruce_sapling",
-      "required": false
-    }
+    "minecraft:podzol",
+    "minecraft:coarse_dirt",
+    "minecraft:mossy_cobblestone",
+    "minecraft:sweet_berries",
+    "minecraft:dead_bush",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:spruce_sapling"
   ]
 }

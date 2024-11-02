@@ -1,16 +1,7 @@
 {
   "values": [
-    {
-      "id": "minecraft:oak_sapling",
-      "required": false
-    },
-    {
-      "id": "minecraft:sunflower",
-      "required": false
-    },
-    {
-      "id": "minecraft:grass_block",
-      "required": false
-    }
+    "minecraft:oak_sapling",
+    "minecraft:sunflower",
+    "minecraft:grass_block"
   ]
 }

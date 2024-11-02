@@ -1,20 +1,8 @@
 {
   "values": [
-    {
-      "id": "minecraft:acacia_sapling",
-      "required": false
-    },
-    {
-      "id": "minecraft:coarse_dirt",
-      "required": false
-    },
-    {
-      "id": "minecraft:oak_sapling",
-      "required": false
-    },
-    {
-      "id": "minecraft:armadillo_scute",
-      "required": false
-    }
+    "minecraft:acacia_sapling",
+    "minecraft:coarse_dirt",
+    "minecraft:oak_sapling",
+    "minecraft:armadillo_scute"
   ]
 }

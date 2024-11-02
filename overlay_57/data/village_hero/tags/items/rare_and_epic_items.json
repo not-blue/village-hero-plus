@@ -1,88 +1,25 @@
 {
   "values": [
-    {
-      "id": "minecraft:flow_banner_pattern",
-      "required": false
-    },
-    {
-      "id": "minecraft:guster_banner_pattern",
-      "required": false
-    },
-    {
-      "id": "minecraft:enchanted_golden_apple",
-      "required": false
-    },
-    {
-      "id": "minecraft:trident",
-      "required": false
-    },
-    {
-      "id": "minecraft:nether_star",
-      "required": false
-    },
-    {
-      "id": "minecraft:ward_armor_trim_smithing_template",
-      "required": false
-    },
-    {
-      "id": "minecraft:eye_armor_trim_smithing_template",
-      "required": false
-    },
-    {
-      "id": "minecraft:vex_armor_trim_smithing_template",
-      "required": false
-    },
-    {
-      "id": "minecraft:spire_armor_trim_smithing_template",
-      "required": false
-    },
-    {
-      "id": "minecraft:wither_skeleton_skull",
-      "required": false
-    },
-    {
-      "id": "minecraft:skull_banner_pattern",
-      "required": false
-    },
-    {
-      "id": "minecraft:mojang_banner_pattern",
-      "required": false
-    },
-    {
-      "id": "minecraft:music_disc_pigstep",
-      "required": false
-    },
-    {
-      "id": "minecraft:music_disc_otherside",
-      "required": false
-    },
-    {
-      "id": "minecraft:beacon",
-      "required": false
-    },
-    {
-      "id": "minecraft:elytra",
-      "required": false
-    },
-    {
-      "id": "minecraft:dragon_egg",
-      "required": false
-    },
-    {
-      "id": "minecraft:dragon_head",
-      "required": false
-    },
-    {
-      "id": "minecraft:silence_armor_trim_smithing_template",
-      "required": false
-    },
-    {
-      "id": "minecraft:heavy_core",
-      "required": false
-    },
-    {
-      "id": "minecraft:mace",
-      "required": false
-    }
+    "minecraft:flow_banner_pattern",
+    "minecraft:guster_banner_pattern",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:trident",
+    "minecraft:nether_star",
+    "minecraft:ward_armor_trim_smithing_template",
+    "minecraft:eye_armor_trim_smithing_template",
+    "minecraft:vex_armor_trim_smithing_template",
+    "minecraft:spire_armor_trim_smithing_template",
+    "minecraft:wither_skeleton_skull",
+    "minecraft:skull_banner_pattern",
+    "minecraft:mojang_banner_pattern",
+    "minecraft:music_disc_pigstep",
+    "minecraft:music_disc_otherside",
+    "minecraft:beacon",
+    "minecraft:elytra",
+    "minecraft:dragon_egg",
+    "minecraft:dragon_head",
+    "minecraft:silence_armor_trim_smithing_template",
+    "minecraft:heavy_core",
+    "minecraft:mace"
   ]
 }

@@ -1,24 +1,9 @@
 {
   "values": [
-    {
-      "id": "minecraft:snow_block",
-      "required": false
-    },
-    {
-      "id": "minecraft:blue_ice",
-      "required": false
-    },
-    {
-      "id": "minecraft:packed_ice",
-      "required": false
-    },
-    {
-      "id": "minecraft:ice",
-      "required": false
-    },
-    {
-      "id": "minecraft:spruce_sapling",
-      "required": false
-    }
+    "minecraft:snow_block",
+    "minecraft:blue_ice",
+    "minecraft:packed_ice",
+    "minecraft:ice",
+    "minecraft:spruce_sapling"
   ]
 }
