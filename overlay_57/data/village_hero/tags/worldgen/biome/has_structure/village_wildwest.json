@@ -1,0 +1,23 @@
+{ "values": [
+	"minecraft:badlands",
+	"minecraft:wooded_badlands",
+	{
+		"id": "terralith:shrubland",
+		"required": false
+	},{
+		"id": "terralith:hot_shrubland",
+		"required": false
+	},{
+		"id": "terralith:lush_desert",
+		"required": false
+	},{
+		"id": "terralith:savanna_badlands",
+		"required": false
+	},{
+		"id": "terralith:savanna_slopes",
+		"required": false
+	},{
+		"id": "terralith:white_mesa",
+		"required": false
+	}
+]}

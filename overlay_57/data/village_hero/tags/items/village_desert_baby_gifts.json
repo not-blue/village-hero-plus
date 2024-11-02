@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "minecraft:dead_bush",
+      "required": false
+    },
+    {
+      "id": "minecraft:cactus",
+      "required": false
+    },
+    {
+      "id": "minecraft:carrot",
+      "required": false
+    },
+    {
+      "id": "minecraft:clay_ball",
+      "required": false
+    }
+  ]
+}
