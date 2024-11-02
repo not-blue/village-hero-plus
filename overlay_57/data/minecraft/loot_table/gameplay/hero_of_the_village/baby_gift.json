@@ -53,7 +53,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "biomes": "#minecraft:has_structure/village_desert"
+                    "biomes": "#village_hero:has_structure/village_desert"
                   }
                 }
               ]
@@ -67,7 +67,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "biomes": "#minecraft:has_structure/village_plains"
+                    "biomes": "#village_hero:has_structure/village_plains"
                   }
                 }
               ]
@@ -81,7 +81,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "biomes": "#minecraft:has_structure/village_savanna"
+                    "biomes": "#village_hero:has_structure/village_savanna"
                   }
                 }
               ]
@@ -105,7 +105,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "biomes": "#minecraft:has_structure/village_snowy"
+                    "biomes": "#village_hero:has_structure/village_snowy"
                   }
                 }
               ]
@@ -129,7 +129,7 @@
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "biomes": "#minecraft:has_structure/village_taiga"
+                    "biomes": "#village_hero:has_structure/village_taiga"
                   }
                 }
               ]
