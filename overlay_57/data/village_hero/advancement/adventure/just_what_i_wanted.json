@@ -43,7 +43,7 @@
           }
         ],
         "item": {
-          "items": "#village_hero:rare_and_epic_items"
+          "tag": "#village_hero:rare_and_epic_items"
         }
       }
     }

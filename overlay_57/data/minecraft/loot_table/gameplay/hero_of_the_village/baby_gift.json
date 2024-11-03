@@ -32,10 +32,10 @@
           "quality": 100
         },
         {
-          "type": "minecraft:alternatives",
+          "type": "minecraft:group",
           "children": [
             {
-              "type": "minecraft:alternatives",
+              "type": "minecraft:group",
               "children": [
                 {
                   "type": "minecraft:tag",
@@ -87,7 +87,7 @@
               ]
             },
             {
-              "type": "minecraft:alternatives",
+              "type": "minecraft:group",
               "children": [
                 {
                   "type": "minecraft:tag",
@@ -111,7 +111,7 @@
               ]
             },
             {
-              "type": "minecraft:alternatives",
+              "type": "minecraft:group",
               "children": [
                 {
                   "type": "minecraft:tag",
