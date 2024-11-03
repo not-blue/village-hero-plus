@@ -1,0 +1,13 @@
+{ 
+	"values": [
+		"minecraft:mangrove_swamp",
+		{
+			"id": "terralith:mirage_isles",
+			"required": false
+		},
+		{
+			"id": "terralith:orchid_swamp",
+			"required": false
+		}
+	]
+}
