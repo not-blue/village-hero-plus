@@ -2,6 +2,7 @@
 	"values": [
 	"minecraft:badlands",
 	"minecraft:wooded_badlands",
+	"minecraft:eroded_badlands",
 	{
 		"id": "terralith:shrubland",
 		"required": false
@@ -26,7 +27,8 @@
 		"id": "terralith:white_mesa",
 		"required": false
 	},
-	{	"id":"terralith:ancient_sands",
+	{	
+		"id":"terralith:ancient_sands",
 		"required": false
 	},
 	{
@@ -39,10 +41,6 @@
 	},
 	{
 		"id": "terralith:red_oasis",
-		"required": false
-	},
-	{
-		"id": "terralith:white_mesa",
 		"required": false
 	}
 	]

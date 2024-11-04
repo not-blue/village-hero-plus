@@ -1,7 +1,6 @@
 {
   "values": [
-    "minecraft:snowy_plains",
-    "minecraft:snowy_taiga",
+    "#minecraft:is_snowy",
     {
       "id": "terralith:glacial_chasm",
       "required": false
@@ -48,6 +47,34 @@
     },
     {
       "id": "terralith:frozen_cliffs",
+      "required": false
+    },
+    {
+      "id": "terralith:cold_shrubland",
+      "required": false
+    },
+    {
+      "id": "terralith:emerald_peaks",
+      "required": false
+    },
+    {
+      "id": "terralith:rocky_shrubland",
+      "required": false
+    },
+    {
+      "id": "terralith:skylands_winter",
+      "required": false
+    },
+    {
+      "id": "terralith:snowy_cherry_grove",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:cold_desert",
+      "required": false
+    },
+    {
+      "id": "clifftree:snowy_old_growth_taiga",
       "required": false
     }
   ]
