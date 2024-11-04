@@ -39,7 +39,7 @@
               "children": [
                 {
                   "type": "minecraft:tag",
-                  "name": "village_hero:village_desert_baby_gifts",
+                  "name": "village_hero:village_desert_baby_gift",
                   "expand": true,
                   "weight": 50
                 },
@@ -60,7 +60,7 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_plains_baby_gifts",
+              "name": "village_hero:village_plains_baby_gift",
               "expand": true,
               "weight": 100,
               "conditions": [
@@ -74,7 +74,7 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_savanna_baby_gifts",
+              "name": "village_hero:village_savanna_baby_gift",
               "expand": true,
               "weight": 100,
               "conditions": [
@@ -91,7 +91,7 @@
               "children": [
                 {
                   "type": "minecraft:tag",
-                  "name": "village_hero:village_snowy_baby_gifts",
+                  "name": "village_hero:village_snowy_baby_gift",
                   "expand": true,
                   "weight": 50
                 },
@@ -115,7 +115,7 @@
               "children": [
                 {
                   "type": "minecraft:tag",
-                  "name": "village_hero:village_taiga_baby_gifts",
+                  "name": "village_hero:village_taiga_baby_gift",
                   "expand": true,
                   "weight": 50
                 },
@@ -130,6 +130,34 @@
                   "condition": "minecraft:location_check",
                   "predicate": {
                     "biomes": "#village_hero:has_structure/village_taiga"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_cherry_baby_gift",
+              "expand": true,
+              "weight": 100,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_cherry"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_badlands_baby_gift",
+              "expand": true,
+              "weight": 100,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_badlands"
                   }
                 }
               ]
