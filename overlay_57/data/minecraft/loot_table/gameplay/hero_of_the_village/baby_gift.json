@@ -161,6 +161,34 @@
                   }
                 }
               ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_swamp_baby_gift",
+              "expand": true,
+              "weight": 100,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_swamp"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_jungle_baby_gift",
+              "expand": true,
+              "weight": 100,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_jungle"
+                  }
+                }
+              ]
             }
           ]
         }
