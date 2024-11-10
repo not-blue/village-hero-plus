@@ -5,15 +5,11 @@
       "rolls": 1,
       "bonus_rolls": 2,
       "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:rabbit_stew",
-          "weight": 30
-        },
+
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_beef",
-          "weight": 30,
+          "weight": 25,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -28,7 +24,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_chicken",
-          "weight": 30,
+          "weight": 25,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -43,7 +39,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_mutton",
-          "weight": 30,
+          "weight": 25,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -58,7 +54,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_porkchop",
-          "weight": 30,
+          "weight": 25,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -73,7 +69,27 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_rabbit",
-          "weight": 30,
+          "weight": 25,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:rabbit_stew",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:feather",
+          "weight": 20,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -88,7 +104,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:sweet_berries",
-          "weight": 10,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -103,7 +119,22 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:rabbit_hide",
-          "weight": 10,
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone_block",
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_count",
