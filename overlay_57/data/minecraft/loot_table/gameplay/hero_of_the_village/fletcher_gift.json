@@ -8,7 +8,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:firework_rocket",
-          "weight": 10,
+          "weight": 30,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -22,8 +22,23 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:flint",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:target",
-          "weight": 10,
+          "weight": 25,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -35,7 +50,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -54,7 +69,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -73,7 +88,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -92,7 +107,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -111,7 +126,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -130,7 +145,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -149,7 +164,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -168,7 +183,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -187,7 +202,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -205,7 +220,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -224,7 +239,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -243,7 +258,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -262,7 +277,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -281,7 +296,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
@@ -300,7 +315,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:tipped_arrow",
-          "weight": 10,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_potion",
