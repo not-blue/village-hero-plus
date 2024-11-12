@@ -171,18 +171,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:dragon_breath",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 4,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:ghast_tear",
           "weight": 5,
           "functions": [
@@ -204,6 +192,19 @@
                 "min": 2,
                 "max": 4
               },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dragon_breath",
+          "weight": 4,
+          "quality": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 4,
               "add": false
             }
           ]
