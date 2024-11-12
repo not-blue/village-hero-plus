@@ -10,6 +10,7 @@
           "type": "minecraft:item",
           "name": "minecraft:cooked_beef",
           "weight": 25,
+          "quality": 1,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -25,6 +26,7 @@
           "type": "minecraft:item",
           "name": "minecraft:cooked_chicken",
           "weight": 25,
+          "quality": 1,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -40,6 +42,7 @@
           "type": "minecraft:item",
           "name": "minecraft:cooked_mutton",
           "weight": 25,
+          "quality": 1,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -55,6 +58,7 @@
           "type": "minecraft:item",
           "name": "minecraft:cooked_porkchop",
           "weight": 25,
+          "quality": 1,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -70,6 +74,7 @@
           "type": "minecraft:item",
           "name": "minecraft:cooked_rabbit",
           "weight": 25,
+          "quality": 1,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -84,12 +89,14 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:rabbit_stew",
-          "weight": 20
+          "weight": 20,
+          "quality": 1
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:feather",
           "weight": 20,
+          "quality": 1,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -105,6 +112,7 @@
           "type": "minecraft:item",
           "name": "minecraft:sweet_berries",
           "weight": 15,
+          "quality": 5,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -120,6 +128,7 @@
           "type": "minecraft:item",
           "name": "minecraft:rabbit_hide",
           "weight": 15,
+          "quality": 5,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -135,6 +144,7 @@
           "type": "minecraft:item",
           "name": "minecraft:bone_block",
           "weight": 4,
+          "quality": 10,
           "functions": [
             {
               "function": "minecraft:set_count",
