@@ -134,7 +134,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:bone_block",
-          "weight": 5,
+          "weight": 4,
           "functions": [
             {
               "function": "minecraft:set_count",
