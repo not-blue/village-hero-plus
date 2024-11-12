@@ -7,21 +7,6 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:firework_rocket",
-          "weight": 30,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              },
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:flint",
           "weight": 40,
           "functions": [
@@ -37,8 +22,23 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:firework_rocket",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 8,
+                "max": 16
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:target",
-          "weight": 25,
+          "weight": 20,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -408,6 +408,7 @@
           "type": "minecraft:item",
           "name": "minecraft:crossbow",
           "weight": 5,
+          "quality": 40,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -422,6 +423,7 @@
           "type": "minecraft:item",
           "name": "minecraft:bow",
           "weight": 5,
+          "quality": 40,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
