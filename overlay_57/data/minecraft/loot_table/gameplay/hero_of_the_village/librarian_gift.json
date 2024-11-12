@@ -8,7 +8,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:book",
-          "weight": 80,
+          "weight": 240,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -22,7 +22,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:book",
-          "weight": 30,
+          "weight": 66,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -37,7 +37,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:name_tag",
-          "weight": 30,
+          "weight": 66,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -52,7 +52,8 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:book",
-          "weight": 20,
+          "weight": 60,
+          "quality": 40,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -66,139 +67,126 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:clock",
-          "weight": 10,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 1,
-              "add": false
-            }
-          ]
+          "weight": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:writable_book",
-          "weight": 10
+          "weight": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:disc_fragment_5",
+          "weight": 15,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_11",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_13",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_blocks",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_cat",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_chirp",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_far",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_mall",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_mellohi",
-          "weight": 1,
-          "quality": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:music_disc_otherside",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_relic",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_strad",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_wait",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_ward",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_stal",
-          "weight": 1,
-          "quality": 10
+          "weight": 6,
+          "quality": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_creator_music_box",
+          "weight": 6,
+          "quality": 30
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_precipice",
+          "weight": 6,
+          "quality": 30
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_pigstep",
           "weight": 1,
-          "quality": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:music_disc_5",
-          "weight": 1,
-          "quality": 10
+          "quality": 100
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:music_disc_creator",
           "weight": 1,
-          "quality": 10
+          "quality": 100
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:music_disc_creator_music_box",
+          "name": "minecraft:music_disc_otherside",
           "weight": 1,
-          "quality": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:music_disc_precipice",
-          "weight": 1,
-          "quality": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:disc_fragment_5",
-          "weight": 1,
-          "quality": 50
+          "quality": 100
         }
       ]
     }
