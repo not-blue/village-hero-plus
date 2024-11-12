@@ -8,7 +8,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:chainmail_helmet",
-          "weight": 20,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -22,7 +22,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:chainmail_chestplate",
-          "weight": 20,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -36,7 +36,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:chainmail_leggings",
-          "weight": 20,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -50,7 +50,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:chainmail_boots",
-          "weight": 20,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -79,7 +79,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:anvil",
-          "weight": 15
+          "weight": 10
         },
         {
           "type": "minecraft:item",
@@ -145,7 +145,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:netherite_upgrade_smithing_template",
-          "weight": 3,
+          "weight": 4,
           "quality": 5
         },
         {
@@ -157,12 +157,6 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:coast_armor_trim_smithing_template",
-          "weight": 1,
-          "quality": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:eye_armor_trim_smithing_template",
           "weight": 1,
           "quality": 10
         },
@@ -210,31 +204,13 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:silence_armor_trim_smithing_template",
-          "weight": 1,
-          "quality": 10
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:snout_armor_trim_smithing_template",
           "weight": 1,
           "quality": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:spire_armor_trim_smithing_template",
-          "weight": 1,
-          "quality": 10
-        },
+        }, 
         {
           "type": "minecraft:item",
           "name": "minecraft:tide_armor_trim_smithing_template",
-          "weight": 1,
-          "quality": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:vex_armor_trim_smithing_template",
           "weight": 1,
           "quality": 10
         },
@@ -252,9 +228,44 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:elytra",
+          "name": "minecraft:eye_armor_trim_smithing_template",
           "weight": 1,
-          "quality": 50
+          "quality": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spire_armor_trim_smithing_template",
+          "weight": 1,
+          "quality": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:vex_armor_trim_smithing_template",
+          "weight": 1,
+          "quality": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ward_armor_trim_smithing_template",
+          "weight": 2,
+          "quality": 20
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:silence_armor_trim_smithing_template",
+              "weight": 50,
+              "quality": 50
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:elytra",
+              "weight": 50,
+              "quality": 50
+            }
+          ]
         }
       ]
     }
