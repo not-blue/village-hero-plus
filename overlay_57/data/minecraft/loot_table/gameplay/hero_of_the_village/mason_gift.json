@@ -7,15 +7,60 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:stone_bricks",
-          "weight": 10,
+          "name": "minecraft:chiseled_stone_bricks",
+          "weight": 16,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              },
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_deepslate",
+          "weight": 16,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_red_sandstone",
+          "weight": 16,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_sandstone",
+          "weight": 16,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dripstone_block",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
               "add": false
             }
           ]
@@ -23,284 +68,91 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:chiseled_nether_bricks",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              }
+              "count": 8,
+              "add": false
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:red_nether_bricks",
-          "weight": 5,
+          "name": "minecraft:chiseled_polished_blackstone",
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              }
+              "count": 8,
+              "add": false
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:nether_bricks",
-          "weight": 5,
+          "name": "minecraft:chiseled_quartz_block",
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              }
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_tuff",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_tuff_bricks",
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
             }
           ]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:smooth_red_sandstone",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              }
+              "count": 8,
+              "add": false
             }
           ]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:smooth_sandstone",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:terracotta",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              },
+              "count": 8,
               "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:smooth_stone",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              },
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_andesite",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              },
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_diorite",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              },
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_granite",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              },
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_deepslate",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              },
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:deepslate_bricks",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              },
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:deepslate_tiles",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              },
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:tuff_bricks",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_tuff",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 8,
-                "max": 16
-              }
             }
           ]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:smooth_basalt",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:calcite",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:blackstone",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:gilded_blackstone",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 4
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:quartz_bricks",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:quartz_pillar",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -312,7 +164,19 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:polished_basalt",
-          "weight": 5,
+          "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:calcite",
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -324,11 +188,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:red_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -336,11 +200,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:orange_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -348,11 +212,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:yellow_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -360,11 +224,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:green_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -372,11 +236,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:lime_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -384,11 +248,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cyan_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -396,11 +260,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:light_blue_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -408,11 +272,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:blue_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -420,11 +284,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:purple_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -432,11 +296,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:pink_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -444,11 +308,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:magenta_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -456,11 +320,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:white_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -468,11 +332,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:light_gray_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -480,11 +344,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:gray_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -492,11 +356,11 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:black_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ]
@@ -504,11 +368,24 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:brown_glazed_terracotta",
-          "weight": 5,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gilded_blackstone",
+          "weight": 10,
+          "value": 25,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
               "add": false
             }
           ]
@@ -520,7 +397,7 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ],
@@ -533,7 +410,7 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4,
+              "count": 8,
               "add": false
             }
           ],
