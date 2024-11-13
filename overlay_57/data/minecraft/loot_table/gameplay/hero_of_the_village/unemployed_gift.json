@@ -28,16 +28,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:paper",
-          "weight": 20,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 4
-              }
-            }
-          ]
+          "weight": 20
         },
         {
           "type": "minecraft:item",
@@ -52,16 +43,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_plains_unemployed_gift",
               "expand": true,
-              "weight": 100,
-              "functions": [
-                {
-                  "function": "minecraft:set_count",
-                  "count": {
-                    "min": 1,
-                    "max": 4
-                  }
-                }
-              ],
+              "weight": 10,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -78,16 +60,7 @@
                   "type": "minecraft:tag",
                   "name": "village_hero:village_taiga_unemployed_gift",
                   "expand": false,
-                  "weight": 75,
-                  "functions": [
-                    {
-                      "function": "minecraft:set_count",
-                      "count": {
-                        "min": 1,
-                        "max": 4
-                      }
-                    }
-                  ]
+                  "weight": 10
                 },
                 {
                   "type": "minecraft:item",
@@ -108,7 +81,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_savanna_unemployed_gift",
               "expand": true,
-              "weight": 100,
+              "weight": 10,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -125,16 +98,7 @@
                   "type": "minecraft:tag",
                   "name": "village_hero:village_snowy_unemployed_gift",
                   "expand": true,
-                  "weight": 75,
-                  "functions": [
-                    {
-                      "function": "minecraft:set_count",
-                      "count": {
-                        "min": 1,
-                        "max": 4
-                      }
-                    }
-                  ]
+                  "weight": 10
                 },
                 {
                   "type": "minecraft:item",
@@ -158,16 +122,7 @@
                   "type": "minecraft:tag",
                   "name": "village_hero:village_desert_unemployed_gift",
                   "expand": true,
-                  "weight": 70,
-                  "functions": [
-                    {
-                      "function": "minecraft:set_count",
-                      "count": {
-                        "min": 1,
-                        "max": 4
-                      }
-                    }
-                  ]
+                  "weight": 10
                 },
                 {
                   "type": "minecraft:item",
@@ -198,7 +153,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_cherry_unemployed_gift",
               "expand": true,
-              "weight": 100,
+              "weight": 10,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -212,7 +167,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_badlands_unemployed_gift",
               "expand": true,
-              "weight": 100,
+              "weight": 10,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -226,7 +181,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_swamp_unemployed_gift",
               "expand": true,
-              "weight": 100,
+              "weight": 10,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -240,7 +195,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_jungle_unemployed_gift",
               "expand": true,
-              "weight": 100,
+              "weight": 10,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
