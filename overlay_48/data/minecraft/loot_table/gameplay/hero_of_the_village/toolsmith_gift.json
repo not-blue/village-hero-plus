@@ -8,7 +8,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:iron_axe",
-          "weight": 25,
+          "weight": 100,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -22,7 +22,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:iron_hoe",
-          "weight": 25,
+          "weight": 100,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -36,7 +36,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:iron_pickaxe",
-          "weight": 25,
+          "weight": 100,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -50,7 +50,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:iron_shovel",
-          "weight": 25,
+          "weight": 100,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -63,8 +63,23 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:iron_block",
+          "weight": 100,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:golden_axe",
-          "weight": 15,
+          "weight": 75,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -78,7 +93,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_hoe",
-          "weight": 15,
+          "weight": 75,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -92,7 +107,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_pickaxe",
-          "weight": 15,
+          "weight": 75,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -106,7 +121,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_shovel",
-          "weight": 15,
+          "weight": 75,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -120,7 +135,8 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond_axe",
-          "weight": 10,
+          "weight": 40,
+          "quality": 10,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -134,7 +150,8 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond_hoe",
-          "weight": 10,
+          "weight": 40,
+          "quality": 10,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -148,7 +165,8 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond_pickaxe",
-          "weight": 10,
+          "weight": 40,
+          "quality": 10,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -162,7 +180,8 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond_shovel",
-          "weight": 10,
+          "weight": 40,
+          "quality": 10,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -175,13 +194,37 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:netherite_upgrade_smithing_template",
+          "weight": 35,
+          "quality": 25
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:netherite_hoe",
           "weight": 1,
           "quality": 50
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:netherite_upgrade_smithing_template",
+          "name": "minecraft:netherite_shovel",
+          "weight": 1,
+          "quality": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_axe",
+          "weight": 1,
+          "quality": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_pickaxe",
+          "weight": 1,
+          "quality": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:beacon",
           "weight": 1,
           "quality": 50
         }

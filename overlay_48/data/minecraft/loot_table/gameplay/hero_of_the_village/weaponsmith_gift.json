@@ -64,8 +64,13 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:anvil",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:shield",
-          "weight": 15,
+          "weight": 10,
           "functions": [
             {
               "function": "minecraft:set_enchantments",
@@ -78,11 +83,6 @@
               }
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:anvil",
-          "weight": 15
         },
         {
           "type": "minecraft:item",
@@ -126,6 +126,7 @@
           "type": "minecraft:item",
           "name": "minecraft:diamond_axe",
           "weight": 5,
+          "quality": 25,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -140,6 +141,7 @@
           "type": "minecraft:item",
           "name": "minecraft:diamond_sword",
           "weight": 5,
+          "quality": 25,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -153,8 +155,8 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:netherite_upgrade_smithing_template",
-          "weight": 1,
-          "quality": 50
+          "weight": 5,
+          "quality": 30
         },
         {
           "type": "minecraft:item",

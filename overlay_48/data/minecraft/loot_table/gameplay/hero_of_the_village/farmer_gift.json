@@ -160,6 +160,7 @@
           "type": "minecraft:item",
           "name": "minecraft:glistering_melon_slice",
           "weight": 5,
+          "quality": 15,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -174,7 +175,8 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:golden_apple",
-          "weight": 5,
+          "weight": 4,
+          "quality": 30,
           "functions": [
             {
               "function": "minecraft:set_count",

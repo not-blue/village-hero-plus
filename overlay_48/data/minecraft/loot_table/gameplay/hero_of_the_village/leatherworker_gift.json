@@ -8,7 +8,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:rabbit_hide",
-          "weight": 30,
+          "weight": 25,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -23,7 +23,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:leather",
-          "weight": 30,
+          "weight": 25,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -38,7 +38,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:item_frame",
-          "weight": 20,
+          "weight": 25,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -52,8 +52,13 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:bundle",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:leather_helmet",
-          "weight": 20,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -67,7 +72,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:leather_chestplate",
-          "weight": 20,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -81,7 +86,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:leather_leggings",
-          "weight": 20,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -95,7 +100,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:leather_boots",
-          "weight": 20,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -105,6 +110,11 @@
               }
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cauldron",
+          "weight": 15
         },
         {
           "type": "minecraft:item",
@@ -118,13 +128,25 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:bundle",
-          "weight": 10
+          "name": "minecraft:phantom_membrane",
+          "weight": 5,
+          "quality": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              },
+              "add": false
+            }
+          ]
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:rabbit_foot",
-          "weight": 10,
+          "weight": 4,
+          "quality": 30,
           "functions": [
             {
               "function": "minecraft:set_count",
