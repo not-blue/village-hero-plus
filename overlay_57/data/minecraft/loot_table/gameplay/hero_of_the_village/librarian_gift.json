@@ -8,7 +8,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:book",
-          "weight": 240,
+          "weight": 210,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -60,6 +60,20 @@
               "levels": {
                 "min": 40,
                 "max": 60
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book",
+          "weight": 30,
+          "quality": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_enchantments",
+              "enchantments": {
+                "minecraft:mending": 1
               }
             }
           ]

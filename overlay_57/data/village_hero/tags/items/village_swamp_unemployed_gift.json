@@ -3,6 +3,8 @@
       "minecraft:clay",
       "minecraft:mud",
       "minecraft:vine",
-      "minecraft:oak_sapling"
+      "minecraft:oak_sapling",
+      "minecraft:packed_mud",
+      "minecraft:slime_block"
     ]
   }
