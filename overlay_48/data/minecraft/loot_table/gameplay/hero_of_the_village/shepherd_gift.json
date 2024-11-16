@@ -168,6 +168,16 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:globe_banner_pattern",
+          "weight": 56
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flower_banner_pattern",
+          "weight": 56
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:goat_horn",
           "weight": 36,
           "quality": 5,
@@ -180,24 +190,14 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:globe_banner_pattern",
-          "weight": 64
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:flower_banner_pattern",
-          "weight": 64
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:creeper_banner_pattern",
-          "weight": 8,
+          "weight": 16,
           "quality": 10
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:piglin_banner_pattern",
-          "weight": 8,
+          "weight": 16,
           "quality": 10
         },
         {
