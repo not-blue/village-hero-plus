@@ -180,23 +180,13 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:bordure_indented_banner_pattern",
-          "weight": 32
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:globe_banner_pattern",
-          "weight": 32
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:field_masoned_banner_pattern",
-          "weight": 32
+          "weight": 64
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:flower_banner_pattern",
-          "weight": 32
+          "weight": 64
         },
         {
           "type": "minecraft:item",
