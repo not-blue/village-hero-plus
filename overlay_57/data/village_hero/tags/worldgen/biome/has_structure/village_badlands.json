@@ -42,6 +42,10 @@
 	{
 		"id": "terralith:red_oasis",
 		"required": false
+	},
+	{
+		"id": "wythers:badlands_desert",
+		"required": false
 	}
 	]
 }

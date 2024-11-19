@@ -38,6 +38,26 @@
     {
       "id": "terralith:steppe",
       "required": false
+    },
+    {
+      "id": "wythers:autumnal_plains",
+      "required": false
+    },
+    {
+      "id": "wythers:cool_plains",
+      "required": false
+    },
+    {
+      "id": "wythers:cold_plains",
+      "required": false
+    },
+    {
+      "id": "wythers:highland_plains",
+      "required": false
+    },
+    {
+      "id": "wythers:subtropical_grassland",
+      "required": false
     }
   ]
 }

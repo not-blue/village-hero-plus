@@ -32,7 +32,7 @@
           "quality": 100
         },
         {
-          "type": "minecraft:alternatives",
+          "type": "minecraft:group",
           "children": [
             {
               "type": "minecraft:group",
@@ -172,6 +172,128 @@
                   "condition": "minecraft:location_check",
                   "predicate": {
                     "biomes": "#village_hero:has_structure/village_swamp"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_beach_baby_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_beach"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_dark_forest_baby_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_dark_forest"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_end_baby_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_end"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:group",
+              "children": [
+                {
+                  "type": "minecraft:tag",
+                  "name": "village_hero:village_lush_caves_baby_gift",
+                  "expand": true,
+                  "weight": 10
+                },
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:glow_berries",
+                  "weight": 40
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_lush_caves"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_mangrove_swamp_baby_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_mangrove_swamp"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_mushroom_baby_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_mushroom"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_ocean_baby_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_ocean"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_sky_baby_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_sky"
                   }
                 }
               ]
