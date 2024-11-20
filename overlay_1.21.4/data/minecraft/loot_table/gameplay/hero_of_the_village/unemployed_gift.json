@@ -7,27 +7,32 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:poppy",
-          "weight": 25
+          "name": "minecraft:mushroom_stew",
+          "weight": 20
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:dandelion",
-          "weight": 25
+          "name": "minecraft:bowl",
+          "weight": 20
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:stick",
-          "weight": 25
+          "name": "minecraft:beetroot_soup",
+          "weight": 20
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:potato",
-          "weight": 25
+          "name": "minecraft:glass_bottle",
+          "weight": 20
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:totem_of_undying",
+          "name": "minecraft:paper",
+          "weight": 20
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
           "weight": 1,
           "quality": 100
         },
@@ -35,32 +40,8 @@
           "type": "minecraft:group",
           "children": [
             {
-              "type": "minecraft:group",
-              "children": [
-                {
-                  "type": "minecraft:tag",
-                  "name": "village_hero:village_desert_baby_gift",
-                  "expand": true,
-                  "weight": 10
-                },
-                {
-                  "type": "minecraft:item",
-                  "name": "minecraft:dead_bush",
-                  "weight": 50
-                }
-              ],
-              "conditions": [
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biomes": "#village_hero:has_structure/village_desert"
-                  }
-                }
-              ]
-            },
-            {
               "type": "minecraft:tag",
-              "name": "village_hero:village_plains_baby_gift",
+              "name": "village_hero:village_plains_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -73,8 +54,32 @@
               ]
             },
             {
+              "type": "minecraft:group",
+              "children": [
+                {
+                  "type": "minecraft:tag",
+                  "name": "village_hero:village_taiga_unemployed_gift",
+                  "expand": false,
+                  "weight": 10
+                },
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:large_fern",
+                  "weight": 25
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_taiga"
+                  }
+                }
+              ]
+            },
+            {
               "type": "minecraft:tag",
-              "name": "village_hero:village_savanna_baby_gift",
+              "name": "village_hero:village_savanna_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -91,14 +96,14 @@
               "children": [
                 {
                   "type": "minecraft:tag",
-                  "name": "village_hero:village_snowy_baby_gift",
+                  "name": "village_hero:village_snowy_unemployed_gift",
                   "expand": true,
                   "weight": 10
                 },
                 {
                   "type": "minecraft:item",
-                  "name": "minecraft:snowball",
-                  "weight": 50
+                  "name": "minecraft:powder_snow_bucket",
+                  "weight": 25
                 }
               ],
               "conditions": [
@@ -115,28 +120,38 @@
               "children": [
                 {
                   "type": "minecraft:tag",
-                  "name": "village_hero:village_taiga_baby_gift",
+                  "name": "village_hero:village_desert_unemployed_gift",
                   "expand": true,
                   "weight": 10
                 },
                 {
                   "type": "minecraft:item",
-                  "name": "minecraft:sweet_berries",
-                  "weight": 50
+                  "name": "minecraft:rabbit",
+                  "weight": 10
+                },
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:rabbit_foot",
+                  "weight": 10
+                },
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:rabbit_hide",
+                  "weight": 10
                 }
               ],
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "biomes": "#village_hero:has_structure/village_taiga"
+                    "biomes": "#village_hero:has_structure/village_desert"
                   }
                 }
               ]
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_cherry_baby_gift",
+              "name": "village_hero:village_cherry_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -150,7 +165,7 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_badlands_baby_gift",
+              "name": "village_hero:village_badlands_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -164,7 +179,7 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_swamp_baby_gift",
+              "name": "village_hero:village_swamp_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -178,7 +193,7 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_beach_baby_gift",
+              "name": "village_hero:village_beach_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -192,7 +207,7 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_dark_forest_baby_gift",
+              "name": "village_hero:village_dark_forest_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -206,7 +221,7 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_end_baby_gift",
+              "name": "village_hero:village_end_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -219,20 +234,10 @@
               ]
             },
             {
-              "type": "minecraft:group",
-              "children": [
-                {
-                  "type": "minecraft:tag",
-                  "name": "village_hero:village_lush_caves_baby_gift",
-                  "expand": true,
-                  "weight": 10
-                },
-                {
-                  "type": "minecraft:item",
-                  "name": "minecraft:glow_berries",
-                  "weight": 40
-                }
-              ],
+              "type": "minecraft:tag",
+              "name": "village_hero:village_lush_caves_unemployed_gift",
+              "expand": true,
+              "weight": 10,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -244,21 +249,7 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_mangrove_swamp_baby_gift",
-              "expand": true,
-              "weight": 10,
-              "conditions": [
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biomes": "#village_hero:has_structure/village_mangrove_swamp"
-                  }
-                }
-              ]
-            },
-            {
-              "type": "minecraft:tag",
-              "name": "village_hero:village_mushroom_baby_gift",
+              "name": "village_hero:village_mushroom_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -272,7 +263,7 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_ocean_baby_gift",
+              "name": "village_hero:village_ocean_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -286,7 +277,7 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_sky_baby_gift",
+              "name": "village_hero:village_sky_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -300,7 +291,21 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_jungle_baby_gift",
+              "name": "village_hero:village_pale_garden_unemployed_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_pale_garden"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_jungle_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
@@ -317,5 +322,5 @@
       ]
     }
   ],
-  "random_sequence": "minecraft:gameplay/hero_of_the_village/baby_gift"
+  "random_sequence": "minecraft:gameplay/hero_of_the_village/unemployed_gift"
 }
