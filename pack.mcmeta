@@ -20,6 +20,13 @@
       {
         "formats": 57,
         "directory": "overlay_57"
+      },
+      {
+        "formats": {
+          "min_inclusive": 60,
+          "max_inclusive": 99
+        },
+        "directory": "overlay_1.21.4"
       }
     ]
 }
