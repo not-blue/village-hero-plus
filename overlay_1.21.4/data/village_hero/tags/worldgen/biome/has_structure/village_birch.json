@@ -1,0 +1,31 @@
+{ 
+	"values": [
+		"minecraft:birch_forest",
+        "minecraft:old_growth_birch_forest",
+        {
+            "id": "terralith:birch_taiga",
+            "required": false
+        },
+        {
+            "id": "terralith:white_cliffs",
+            "required": false
+        },
+        {
+            "id": "wythers:autumnal_birch_forest",
+            "required": false
+        },
+        {
+            "id": "wythers:birch_swamp",
+            "required": false
+        },
+        {
+            "id": "wythers:birch_taiga",
+            "required": false
+        },
+        {
+            "id": "wythers:warm_birch_forest",
+            "required": false
+        }
+
+	]
+}
