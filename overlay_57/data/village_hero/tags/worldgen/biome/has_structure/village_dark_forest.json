@@ -1,3 +1,65 @@
-{ "values": [
-	"minecraft:dark_forest"
-]}
+{ 
+	"values": [
+	"minecraft:dark_forest",
+	  {
+		"id": "terralith:mirage_isles",
+		"required": false
+	  },
+	  {
+		"id": "byg:ancient_forest",
+		"required": false
+	  },
+	  {
+		"id": "byg:ebony_woods",
+		"required": false
+	  },    
+	  {
+		"id": "biomesoplenty:ominous_woods",
+		"required": false
+	  },
+	  {
+		"id": "wythers:ancient_moss_forest",
+		"required": false
+	  },
+	  {
+		"id": "wythers:deep_dark_forest",
+		"required": false
+	  },
+	  {
+		"id": "wythers:forbidden_forest",
+		"required": false
+	  },
+	  {
+		"id": "wythers:phantasmal_forest",
+		"required": false
+	  },
+	  {
+		"id": "wythers:phantasmal_swamp",
+		"required": false
+	  },
+	  {
+		"id": "regions_unexplored:blackwood_forest",
+		"required": false
+	  },
+	  {
+		"id": "regions_unexplored:golden_boreal_forest",
+		"required": false
+	  },
+	  {
+		"id": "regions_unexplored:maple_forest",
+		"required": false
+	  },
+	  {
+		"id": "regions_unexplored:redwoods",
+		"required": false
+	  },
+	  {
+		"id": "regions_unexplored:smouldering_woodland",
+		"required": false
+	  },
+	  {
+		"id": "regions_unexplored:sparse_redwoods",
+		"required": false
+	  }
+	]
+}

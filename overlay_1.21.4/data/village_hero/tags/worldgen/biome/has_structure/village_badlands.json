@@ -30,6 +30,18 @@
 	{
 		"id": "wythers:badlands_desert",
 		"required": false
+	},
+	{
+		"id": "byg:atacama_desert",
+		"required": false
+	},
+	{
+		"id": "regions_unexplored:arid_mountains",
+		"required": false
+	},
+	{
+		"id": "regions_unexplored:outback",
+		"required": false
 	}
 	]
 }

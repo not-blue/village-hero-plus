@@ -140,6 +140,58 @@
     {
       "id": "wythers:deep_snowy_taiga",
       "required": false
+    },
+    {
+      "id": "wythers:snowy_tundra",
+      "required": false
+    },
+    {
+      "id": "wythers:ice_cap",
+      "required": false
+    },
+    {
+      "id": "byg:frosted_taiga",
+      "required": false
+    },
+    {
+      "id": "byg:frosted_coniferous_forest",
+      "required": false
+    },
+    {
+      "id": "projectvibrantjourneys:snowy_boreal_forest",
+      "required": false
+    },
+    {
+      "id": "projectvibrantjourneys:snowy_redwoods",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:cold_forest",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:cold_deciduous_forest",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:frozen_forest",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:frozen_tundra",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:icy_desert",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:icy_heights",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:spires",
+      "required": false
     }
   ]
 }

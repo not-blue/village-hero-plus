@@ -2,3 +2,11 @@ Pack name:  Village Hero+
 Pack URL:   https://modrinth.com/datapack/village-hero-plus
 Author:     Nicole / notblue / nicoleisnotblue
 Author URL: https://modrinth.com/user/notblue   
+
+Special thanks to the following folks for their contributions:
+
+TheSich, who helped port the data pack to 1.19.x
+https://modrinth.com/user/TheSich 
+
+peA_sh0ter, who helped with the loot tables
+https://www.planetminecraft.com/member/pea_sh0ter/
