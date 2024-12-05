@@ -10,3 +10,6 @@ https://modrinth.com/user/TheSich
 
 peA_sh0ter, who helped with the loot tables
 https://www.planetminecraft.com/member/pea_sh0ter/
+
+Data pack built with Misode Data Pack Generator (https://misode.github.io/).
+Pack maintained using Visual Studio Code.

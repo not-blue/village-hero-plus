@@ -3,7 +3,7 @@
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 99
+      "max_inclusive": 999
     },
     "description": "Get better loot from villagers after defeating a raid"
   },
@@ -23,10 +23,10 @@
       },
       {
         "formats": {
-          "min_inclusive": 60,
-          "max_inclusive": 99
+          "min_inclusive": 61,
+          "max_inclusive": 999
         },
-        "directory": "overlay_1.21.4"
+        "directory": "overlay_61"
       }
     ]
 }
