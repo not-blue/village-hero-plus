@@ -4,6 +4,10 @@
         "id": "biomesoplenty:bayou",
         "required": false
     },
+    {
+        "id": "biomesoplenty:wetland",
+        "required": false
+    },
 	{ 
         "id": "terralith:orchid_swamp",
         "required": false
@@ -30,6 +34,62 @@
     },
     {
         "id": "regions_unexplored:fungal_fen",
+        "required": false
+    },
+    {
+        "id": "blooming_biosphere:marsh",
+        "required": false
+    },
+    {
+        "id": "byg:cypress_swamplands",
+        "required": false
+    },
+    {
+        "id": "wythers:ancient_mossy_swamp",
+        "required": false
+    },
+    {
+        "id": "wythers:ancient_oak_swamp",
+        "required": false
+    },
+    {
+        "id": "wythers:marsh",
+        "required": false
+    },
+    {
+        "id": "wythers:waterlilly_swamp",
+        "required": false
+    },
+    {
+        "id": "sensible:bamboo_swamp",
+        "required": false
+    },
+    {
+        "id": "sensible:birch_swamp",
+        "required": false
+    },
+    {
+        "id": "sensible:cold_swamp",
+        "required": false
+    },
+    {
+        "id": "sensible:desert_swamp",
+        "required": false
+    },
+    {
+        "id": "sensible:jungle_swamp",
+        "required": false
+    },
+    {
+        "id": "sensible:pine_swamp",
+        "required": false
+    },
+    {
+        "id": "sensible:swamp_plains",
+        "required": false
+    },
+    {
+        "id": "sensible:taiga_swamp",
         "required": false
     }
 ]

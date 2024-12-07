@@ -8,6 +8,14 @@
 		"required": false
 	},
 	{
+		"id": "terralith:arid_highlands",
+		"required": false
+	},
+	{
+		"id": "terralith:snowy_badlands",
+		"required": false
+	},
+	{
 		"id": "terralith:white_mesa",
 		"required": false
 	},
@@ -32,7 +40,23 @@
 		"required": false
 	},
 	{
+		"id": "wythers:kwongan_heath",
+		"required": false
+	},
+	{
+		"id": "wythers:outback_desert",
+		"required": false
+	},
+	{
+		"id": "wythers:red_desert",
+		"required": false
+	},
+	{
 		"id": "byg:atacama_desert",
+		"required": false
+	},
+	{
+		"id": "byg:sierra_badlands",
 		"required": false
 	},
 	{
@@ -41,6 +65,30 @@
 	},
 	{
 		"id": "regions_unexplored:outback",
+		"required": false
+	},
+	{
+		"id": "regions_unexplored:dry_bushland",
+		"required": false
+	},
+	{
+		"id": "regions_unexplored:prairie",
+		"required": false
+	},
+	{
+		"id": "regions_unexplored:wooded_arid_mountains",
+		"required": false
+	},        
+	{
+		"id": "tectonic:red_desert",
+		"required": false
+	},
+	{
+		"id": "tectonic:red_desert_dunes",
+		"required": false
+	},
+	{
+		"id": "jermsy:red_desert",
 		"required": false
 	}
 	]

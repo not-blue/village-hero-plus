@@ -3,10 +3,6 @@
 	"minecraft:sparse_jungle",
 	"minecraft:jungle",
 	"minecraft:bamboo_jungle",
-	{ 
-		"id": "terralith:tropical_jungle",
-		"required": false
-	},
 	{
 		"id": "biomesoplenty:floodplain",
 		"required": false
@@ -20,6 +16,10 @@
 		"required": false
 	},
 	{
+		"id": "biomesoplenty:tropics",
+		"required": false
+	},
+	{
 		"id": "biomesoplenty:rocky_rainforest",
 		"required": false
 	},
@@ -29,6 +29,10 @@
 	},
 	{
 		"id": "terralith:rocky_jungle",
+		"required": false
+	},
+	{ 
+		"id": "terralith:tropical_jungle",
 		"required": false
 	},
 	{
@@ -54,6 +58,38 @@
 	{
       	"id": "regions_unexplored:tropics",
       	"required": false
-    }
+    },
+	{
+		"id": "wythers:sandy_jungle",
+		"required": false
+	},
+	{
+		"id": "wythers:sparse_bamboo_jungle",
+		"required": false
+	},
+	{
+		"id": "wythers:sparse_eucalyptus_jungle",
+		"required": false
+	},
+	{
+		"id": "wythers:tropical_forest",
+		"required": false
+	},
+	{
+		"id": "wythers:tropical_island",
+		"required": false
+	},
+	{
+		"id": "byg:jacaranda_forest",
+		"required": false
+	},
+	{
+		"id": "sensible:bamboo_swamp",
+		"required": false
+	},
+	{
+		"id": "sensible:jungle_swamp",
+		"required": false
+	}
 ]
 }

@@ -57,6 +57,14 @@
 	  {
       "id": "regions_unexplored:steppe",
       "required": false
+    },
+    {
+      "id": "blooming_biosphere:chaparral",
+      "required": false
+    },
+    {
+      "id": "sensible:savanna_plains",
+      "required": false
     }
   ]
 }

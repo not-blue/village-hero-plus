@@ -20,6 +20,14 @@
       "required": false
     },
     {
+      "id": "biomesoplenty:clover_patch",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:field",
+      "required": false
+    },
+    {
       "id": "terralith:blooming_plateau",
       "required": false
     },
@@ -56,11 +64,39 @@
       "required": false
     },
     {
+      "id": "wythers:highlands",
+      "required": false
+    },
+    {
       "id": "wythers:subtropical_grassland",
       "required": false
     },
     {
       "id": "terralith:shrubland",
+      "required": false
+    },
+    {
+      "id": "jermsy:flower_fields",
+      "required": false
+    },
+    {
+      "id": "wythers:jade_highlands",
+      "required": false
+    },
+    {
+      "id": "tectonic:alpine_meadow",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:highland_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:meadow",
+      "required": false
+    },
+    {
+      "id": "sensible:swamp_plains",
       "required": false
     }
   ]

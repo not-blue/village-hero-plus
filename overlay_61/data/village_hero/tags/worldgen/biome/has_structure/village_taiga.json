@@ -275,6 +275,14 @@
     {
       "id": "projectvibrantjourneys:redwoods",
       "required": false
+    },
+    {
+      "id": "sensible:pine_swamp",
+      "required": false
+    },
+    {
+      "id": "sensible:taiga_swamp",
+      "required": false
     }
   ]
 }
