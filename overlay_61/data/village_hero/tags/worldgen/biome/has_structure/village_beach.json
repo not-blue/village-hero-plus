@@ -2,6 +2,7 @@
 	"values": [
 		"minecraft:beach",
 		"minecraft:stony_shore",
+        "minecraft:snowy_beach",
 		{
 			"id": "terralith:gravel_beach",
 			"required": false
@@ -72,6 +73,10 @@
         },
         {
             "id": "sensible:warm_coast",
+            "required": false
+        },
+        {
+            "id": "blooming_biosphere:tidepools",
             "required": false
         }
 	]

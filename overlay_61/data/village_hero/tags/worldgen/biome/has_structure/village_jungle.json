@@ -36,6 +36,10 @@
 		"required": false
 	},
 	{
+		"id": "terralith:amethyst_rainforest",
+		"required": false
+	},
+	{
 		"id": "clifftree:tropical_river",
 		"required": false
 	},
@@ -80,7 +84,31 @@
 		"required": false
 	},
 	{
+		"id": "wythers:eucalyptus_deanei_forest",
+		"required": false
+	},
+	{
+		"id": "wythers:eucalyptus_jungle",
+		"required": false
+	},
+	{
+		"id": "wythers:highland_tropical_rainforest",
+		"required": false
+	},
+	{
+		"id": "wythers:jungle_island",
+		"required": false
+	},
+	{
+		"id": "wythers:tropical_rainforest",
+		"required": false
+	},
+	{
 		"id": "byg:jacaranda_forest",
+		"required": false
+	},
+	{
+		"id": "byg:tropical_rainforest",
 		"required": false
 	},
 	{
@@ -89,6 +117,42 @@
 	},
 	{
 		"id": "sensible:jungle_swamp",
+		"required": false
+	},
+	{
+		"id": "sensible:jungle_woodland",
+		"required": false
+	},
+	{
+		"id": "sensible:jungle_forest",
+		"required": false
+	},
+	{
+		"id": "sensible:mangrove_jungle",
+		"required": false
+	},
+	{
+		"id": "sensible:pine_jungle",
+		"required": false
+	},
+	{
+		"id": "sensible:savanna_jungle",
+		"required": false
+	},
+	{
+		"id": "blooming_biosphere:rainforest",
+		"required": false
+	},
+	{
+		"id": "jermsy:rainforest",
+		"required": false
+	},
+	{
+		"id": "hybrid_beta:rainforest",
+		"required": false
+	},
+	{
+		"id": "byg:jacaranda_forest",
 		"required": false
 	}
 ]

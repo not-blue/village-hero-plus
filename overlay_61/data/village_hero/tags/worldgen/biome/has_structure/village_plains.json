@@ -98,6 +98,14 @@
     {
       "id": "sensible:swamp_plains",
       "required": false
+    },
+    {
+      "id": "sensible:shrubland",
+      "required": false
+    },
+    {
+      "id": "sensible:woodland",
+      "required": false
     }
   ]
 }

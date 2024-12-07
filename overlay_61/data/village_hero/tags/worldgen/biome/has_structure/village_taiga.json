@@ -9,6 +9,10 @@
       "required": false
     },
     {
+      "id": "terralith:valley_clearing",
+      "required": false
+    },
+    {
       "id": "terralith:siberian_grove",
       "required": false
     },
@@ -169,6 +173,14 @@
       "required": false
     },
     {
+      "id": "byg:black_forest",
+      "required": false
+  },        
+  {
+      "id": "byg:dacite_ridges",
+      "required": false
+  },
+    {
       "id": "wythers:flooded_temperate_rainforest",
       "required": false
     },
@@ -236,6 +248,10 @@
       "id": "wythers:thermal_taiga",
       "required": false
     },
+    {
+      "id": "tectonic:old_growth_snowy_taiga",
+      "required": false
+    },
 	  {
       "id": "regions_unexplored:boreal_forest",
       "required": false
@@ -282,6 +298,30 @@
     },
     {
       "id": "sensible:taiga_swamp",
+      "required": false
+    },
+    {
+      "id": "sensible:pine_forest",
+      "required": false
+    },
+    {
+      "id": "sensible:pine_jungle",
+      "required": false
+    },
+    {
+      "id": "sensible:taiga_woodland",
+      "required": false
+    },
+    {
+      "id": "sensible:cold_woodland",
+      "required": false
+    },
+    {
+      "id": "sensible:cold_plains",
+      "required": false
+    },
+    {
+      "id": "sensible:cold_shrubland",
       "required": false
     }
   ]

@@ -65,6 +65,19 @@
     {
       "id": "sensible:savanna_plains",
       "required": false
+    },
+    {
+      "id": "sensible:savanna_forest",
+      "required": false
+    },
+    {
+      "id": "sensible:savanna_jungle",
+      "required": false
+    },
+    {
+      "id": "sensible:warm_woodland",
+      "required": false
     }
+
   ]
 }

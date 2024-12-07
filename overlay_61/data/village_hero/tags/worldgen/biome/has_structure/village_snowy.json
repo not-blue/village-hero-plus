@@ -1,8 +1,29 @@
 {
   "values": [
-    "#minecraft:is_snowy",
+    "minecraft:snowy_plains",
+    "minecraft:ice_spikes", 
+    "minecraft:frozen_ocean", 
+    "minecraft:snowy_taiga", 
+    "minecraft:frozen_river", 
+    "minecraft:snowy_beach", 
+    "minecraft:frozen_peaks", 
+    "minecraft:jagged_peaks", 
+    "minecraft:snowy_slopes", 
+    "minecraft:grove",
     {
       "id": "terralith:glacial_chasm",
+      "required": false
+    },
+    {
+      "id": "terralith:forested_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:shield",
+      "required": false
+    },
+    {
+      "id": "terralith:shield_clearing",
       "required": false
     },
     {
@@ -154,7 +175,31 @@
       "required": false
     },
     {
+      "id": "wythers:berry_bog",
+      "required": false
+    },
+    {
+      "id": "wythers:crimson_tundra",
+      "required": false
+    },
+    {
+      "id": "wythers:frigid_island",
+      "required": false
+    },
+    {
+      "id": "wythers:frozen_island",
+      "required": false
+    },
+    {
+      "id": "wythers:tundra",
+      "required": false
+    },
+    {
       "id": "byg:frosted_coniferous_forest",
+      "required": false
+    },
+    {
+      "id": "byg:howling_peaks",
       "required": false
     },
     {
@@ -163,6 +208,10 @@
     },
     {
       "id": "projectvibrantjourneys:snowy_redwoods",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:cold_boreal_forest",
       "required": false
     },
     {
@@ -194,12 +243,28 @@
       "required": false
     },
     {
+      "id": "regions_unexplored:temperate_grove",
+      "required": false
+    },
+    {
+      "id": "jermsy:tundra",
+      "required": false
+    },
+    {
       "id": "blooming_biosphere:snowy_cherry_grove",
       "required": false
     },
     {
-      "id": "regions_unexplored:temperate_grove",
+      "id": "sensible:snowy_woodland",
       "required": false
-  }
+    },
+    {
+      "id": "sensible:cold_plains",
+      "required": false
+    },
+    {
+      "id": "sensible:cold_shrubland",
+      "required": false
+    }
   ]
 }
