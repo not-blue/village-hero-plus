@@ -1,5 +1,6 @@
 {
   "values": [
+    "#minecraft:has_structure/village_plains",
     "minecraft:plains",
     "minecraft:meadow",
     "minecraft:sunflower_plains",
@@ -16,7 +17,27 @@
       "required": false
     },
     {
+      "id": "biomesoplenty:origin_valley",
+      "required": false
+    },
+    {
       "id": "biomesoplenty:shrubland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:clover_patch",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:field",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:highland",
+      "required": false
+    },
+    {
+      "id": "terralith:alpha_islands",
       "required": false
     },
     {
@@ -40,6 +61,10 @@
       "required": false
     },
     {
+      "id": "terralith:alpine_highlands",
+      "required": false
+    },
+    {
       "id": "wythers:autumnal_plains",
       "required": false
     },
@@ -56,11 +81,115 @@
       "required": false
     },
     {
+      "id": "wythers:highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:harvest_fields",
+      "required": false
+    },
+    {
       "id": "wythers:subtropical_grassland",
       "required": false
     },
     {
+      "id": "wythers:jade_highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:temperate_island",
+      "required": false
+    },
+    {
+      "id": "wythers:mediterranean_island",
+      "required": false
+    },
+    {
       "id": "terralith:shrubland",
+      "required": false
+    },
+    {
+      "id": "jermsy:flower_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:highland_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:alpha_grove",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:barley_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:flower_field",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:pumpkin_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:meadow",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:autumnal_fields",
+      "required": false
+    },
+    {
+      "id": "sensible:swamp_plains",
+      "required": false
+    },
+    {
+      "id": "sensible:shrubland",
+      "required": false
+    },
+    {
+      "id": "sensible:woodland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:prairie",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:orchard",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:overgrowth_woodlands",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:temperate_grove",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:allium_fields",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:temperate_rainforest",
+      "required": false
+    },
+    {
+      "id": "tectonic:alpine_meadow",
+      "required": false
+    },
+    {
+      "id": "tectonic:cold_plains",
+      "required": false
+    },
+    {
+      "id": "tectonic:grasslands",
+      "required": false
+    },
+    {
+      "id": "traverse:grasslands",
       "required": false
     }
   ]

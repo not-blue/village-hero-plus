@@ -1,4 +1,5 @@
 { "values": [
+    "#minecraft:has_structure/swamp_hut",
 	"minecraft:swamp",
 	{ 
         "id": "biomesoplenty:bayou",
@@ -6,6 +7,10 @@
     },
     {
         "id": "biomesoplenty:wetland",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:highland_moor",
         "required": false
     },
 	{ 
@@ -41,7 +46,7 @@
         "required": false
     },
     {
-        "id": "byg:cypress_swamplands",
+        "id": "biomeswevegone:cypress_swamplands",
         "required": false
     },
     {
@@ -58,6 +63,18 @@
     },
     {
         "id": "wythers:waterlilly_swamp",
+        "required": false
+    },
+    {
+        "id": "wythers:dripleaf_swamp",
+        "required": false
+    },
+    {
+        "id": "wythers:pantanal",
+        "required": false
+    },
+    {
+        "id": "wythers:flowering_pantanal",
         "required": false
     },
     {

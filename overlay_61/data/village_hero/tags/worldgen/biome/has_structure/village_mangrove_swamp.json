@@ -28,6 +28,10 @@
 		{
 		  "id": "wythers:autumnal_swamp",
 		  "required": false
+		},
+		{
+			"id": "sensible:mangrove_jungle",
+			"required": false
 		}
 
 	]

@@ -1,5 +1,6 @@
 { 
 	"values": [
+		"#minecraft:is_end",
 		"minecraft:end_highlands",
         "minecraft:end_barrens",
 		"minecraft:end_midlands",

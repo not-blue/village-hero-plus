@@ -1,5 +1,8 @@
 {
   "values": [
+    "#minecraft:has_structure/village_snowy",
+    "#minecraft:spawns_snow_foxes",
+    "#minecraft:has_structure/igloo",
     "minecraft:snowy_plains",
     "minecraft:ice_spikes", 
     "minecraft:frozen_ocean", 
@@ -91,6 +94,10 @@
       "required": false
     },
     {
+      "id": "terralith:scarlet_mountains",
+      "required": false
+    },
+    {
       "id": "biomesoplenty:cold_desert",
       "required": false
     },
@@ -171,10 +178,6 @@
       "required": false
     },
     {
-      "id": "byg:frosted_taiga",
-      "required": false
-    },
-    {
       "id": "wythers:berry_bog",
       "required": false
     },
@@ -195,11 +198,7 @@
       "required": false
     },
     {
-      "id": "byg:frosted_coniferous_forest",
-      "required": false
-    },
-    {
-      "id": "byg:howling_peaks",
+      "id": "wythers:snowy_tundra",
       "required": false
     },
     {
@@ -264,6 +263,30 @@
     },
     {
       "id": "sensible:cold_shrubland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:eroded_borealis",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:frosted_taiga",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:frosted_coniferous_forest",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:howling_peaks",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:shattered_glacier",
+      "required": false
+    },
+    {
+      "id": "tectonic:old_growth_snowy_taiga",
       "required": false
     }
   ]

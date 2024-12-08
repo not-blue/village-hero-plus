@@ -3,6 +3,7 @@
 	"minecraft:badlands",
 	"minecraft:wooded_badlands",
 	"minecraft:eroded_badlands",
+	"#minecraft:is_badlands",
 	{
 		"id": "terralith:hot_shrubland",
 		"required": false
@@ -52,11 +53,11 @@
 		"required": false
 	},
 	{
-		"id": "byg:atacama_desert",
+		"id": "biomeswevegone:atacama_desert",
 		"required": false
 	},
 	{
-		"id": "byg:sierra_badlands",
+		"id": "biomeswevegone:sierra_badlands",
 		"required": false
 	},
 	{
@@ -89,6 +90,30 @@
 	},
 	{
 		"id": "jermsy:red_desert",
+		"required": false
+	},
+	{
+		"id": "biomeswevegone:red_rock_valley",
+		"required": false
+	},
+	{
+		"id": "biomeswevegone:red_rock_mountains",
+		"required": false
+	},
+	{
+		"id": "biomesoplenty:rocky_shrubland",
+		"required": false
+	},
+	{
+		"id": "biomesoplenty:scrubland",
+		"required": false
+	},
+	{
+		"id": "biomesoplenty:shrubland",
+		"required": false
+	},
+	{
+		"id": "biomesoplenty:wooded_scrubland",
 		"required": false
 	}
 	]

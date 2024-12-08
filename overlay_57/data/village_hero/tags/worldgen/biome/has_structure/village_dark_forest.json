@@ -6,11 +6,11 @@
 		"required": false
 	  },
 	  {
-		"id": "byg:ancient_forest",
+		"id": "biomeswevegone:ancient_forest",
 		"required": false
 	  },
 	  {
-		"id": "byg:ebony_woods",
+		"id": "biomeswevegone:ebony_woods",
 		"required": false
 	  },    
 	  {

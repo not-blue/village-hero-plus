@@ -3,6 +3,7 @@
 		"minecraft:beach",
 		"minecraft:stony_shore",
         "minecraft:snowy_beach",
+        "#minecraft:is_beach",
 		{
 			"id": "terralith:gravel_beach",
 			"required": false
@@ -12,11 +13,11 @@
             "required": false
         },
         {
-            "id": "byg:rainbow_beach",
+            "id": "biomeswevegone:rainbow_beach",
             "required": false
         },
         {
-            "id": "byg:windswept_beach",
+            "id": "biomeswevegone:windswept_beach",
             "required": false
         },
         {

@@ -1,15 +1,34 @@
 {
   "values": [
+    "#minecraft:has_structure/village_savanna",
+    "#minecraft:is_savanna",
     "minecraft:savanna",
     "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna",
     {
       "id": "biomesoplenty:scrubland",
       "required": false
     },
     {
-      "id": "terralith:arid_highlands",
+      "id": "biomesoplenty:shrubland",
       "required": false
     },
+    {
+      "id": "biomesoplenty:rocky_shrubland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:dryland",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:wooded_scrubland",
+      "required": false
+    },
+    {
+      "id": "terralith:arid_highlands",
+      "required": false
+    },    
     {
       "id": "terralith:ashen_savanna",
       "required": false
@@ -27,7 +46,23 @@
       "required": false
     },
     {
+      "id": "terralith:brushland",
+      "required": false
+    },
+    {
+      "id": "terralith:shrubland",
+      "required": false
+    },
+    {
       "id": "terralith:hot_shrubland",
+      "required": false
+    },
+    {
+      "id": "terralith:shrubland",
+      "required": false
+    },
+    {
+      "id": "terralith:white_mesa",
       "required": false
     },
     {
@@ -35,7 +70,23 @@
       "required": false
     },
     {
+      "id": "wythers:flooded_savanna",
+      "required": false
+    },
+    {
       "id": "wythers:wooded_savanna",
+      "required": false
+    },
+    {
+      "id": "wythers:eucalyptus_salubris_woodland",
+      "required": false
+    },
+    {
+      "id": "wythers:eucalyptus_woodland",
+      "required": false
+    },
+    {
+      "id": "wythers:sparse_eucalyptus_woodland",
       "required": false
     },
     {
@@ -76,6 +127,34 @@
     },
     {
       "id": "sensible:warm_woodland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:araucaria_savanna",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:baobab_savanna",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:firecracker_shrubland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:ironwood_gour",
+      "required": false
+    },
+    {
+      "id": "tectonic:grasslands",
+      "required": false
+    },
+    {
+      "id": "jermsy:shrubland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:shrubland",
       "required": false
     }
 

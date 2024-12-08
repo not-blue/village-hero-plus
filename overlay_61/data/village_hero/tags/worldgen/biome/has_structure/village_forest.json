@@ -5,30 +5,6 @@
         "minecraft:windswept_forest",
         "minecraft:flower_forest",
         {
-            "id": "byg:red_oak_forest",
-            "required": false
-        },
-        {
-            "id": "byg:temperate_rainforest",
-            "required": false
-        },
-        {
-            "id": "byg:orchard",
-            "required": false
-        },
-        {
-            "id": "byg:ebony_woods",
-            "required": false
-        },
-        {
-            "id": "byg:autumnal_forest",
-            "required": false
-        },
-        {
-            "id": "byg:red_oak_forest",
-            "required": false
-        },
-        {
             "id": "biomesoplenty:old_growth_woodland",
             "required": false
         },
@@ -46,6 +22,14 @@
         },
         {
             "id": "biomesoplenty:old_growth_woodland",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:mediterranean_forest",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:boreal_forest",
             "required": false
         },
         {
@@ -93,6 +77,14 @@
             "required": false
         },
         {
+            "id": "wythers:autumnal_forest_edge",
+            "required": false
+        },
+        {
+            "id": "wythers:flooded_temperate_rainforest",
+            "required": false
+        },
+        {
             "id": "blooming_biosphere:autumnal_forest",
             "required": false
         },
@@ -109,6 +101,10 @@
             "required": false
         },
         {
+            "id": "terrestria:japanese_maple_forest",
+            "required": false
+        },
+        {
             "id": "jermsy:sparse_forest",
             "required": false
         },
@@ -121,21 +117,25 @@
             "required": false
         },
         {
+            "id": "regions_unexplored:autumnal_maple_forest",
+            "required": false
+        },
+        {
             "id": "hybrid_beta:seasonal_forest",
             "required": false
         },
         {
-            "id": "terrestria:japanese_maple_forest",
+            "id": "hybrid_beta:temperate_rainforest",
+            "required": false
+        },
+        {
+            "id": "hybrid_beta:autumnal_forest",
             "required": false
         },
         {
             "id": "terralith:cloud_forest",
             "required": false
         },        
-        {
-            "id": "blooming_biosphere:autumnal_forest",
-            "required": false
-        },
         {
             "id": "blooming_biosphere:oak_woodland",
             "required": false
@@ -155,6 +155,55 @@
         {
             "id": "sensible:woodland",
             "required": false
+        },
+        {
+            "id": "biomeswevegone:forgotten_forest",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:weeping_witch_forest",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:red_oak_forest",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:orchard",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:ebony_woods",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:autumnal_forest",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:overgrowth_woodlands",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:temperate_grove",
+            "required": false
+        },
+        {
+            "id": "terralith:snowy_maple_forest",
+            "required": false
+        },
+        {
+            "id": "terralith:forested_highlands",
+            "required": false
+        },
+        {
+            "id": "tectonic:autumn_forest",
+            "required": false
+        },
+        {
+            "id": "traverse:autumnal_woods",
+            "required": false
         }
+
 	]
 }

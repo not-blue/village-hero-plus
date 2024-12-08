@@ -333,6 +333,34 @@
             },
             {
               "type": "minecraft:tag",
+              "name": "village_hero:village_pumpkin_unemployed_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_pumpkin"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_nether_unemployed_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_nether"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
               "name": "village_hero:village_jungle_unemployed_gift",
               "expand": true,
               "weight": 10,

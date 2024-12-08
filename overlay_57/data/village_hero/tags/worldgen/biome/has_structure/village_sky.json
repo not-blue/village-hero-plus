@@ -12,6 +12,10 @@
             "required": false
         },
         {
+            "id": "terralith:skylands",
+            "required": false
+        },
+        {
             "id": "eden:stony_peaks",
             "required": false
         },
@@ -21,6 +25,14 @@
         },
         { 
             "id": "eden:jagged_peaks",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:skyris_vale",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:skyrise_vale",
             "required": false
         }
 

@@ -43,11 +43,11 @@
             "required": false
         },
         {
-            "id": "byg:aspen_forest",
+            "id": "biomeswevegone:aspen_forest",
             "required": false
         },
         {
-            "id": "byg:temperate_grove",
+            "id": "biomeswevegone:temperate_grove",
             "required": false
         },
         {

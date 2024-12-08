@@ -1,0 +1,9 @@
+{
+    "values": [
+        "#minecraft:is_nether",
+        {
+            "id": "wythers:savanna_basaltic_incursions",
+            "required": false
+        }
+    ]
+}

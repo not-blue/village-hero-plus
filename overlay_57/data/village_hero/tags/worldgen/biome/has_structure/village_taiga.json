@@ -1,11 +1,33 @@
 {
   "values": [
+    "#minecraft:has_structure/village_taiga",
+    "#minecraft:is_taiga",
     "minecraft:taiga",
     "minecraft:old_growth_spruce_taiga",
     "minecraft:snowy_taiga",
     "minecraft:old_growth_pine_taiga",
     {
       "id":"terralith:siberian_taiga",
+      "required": false
+    },
+    {
+      "id": "terralith:alpine_grove",
+      "required": false
+    },
+    {
+      "id": "terralith:alpine_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:valley_clearing",
+      "required": false
+    },
+    {
+      "id": "terralith:lush_valley",
+      "required": false
+    },
+    {
+      "id": "terralith:rocky_shrubland",
       "required": false
     },
     {
@@ -18,6 +40,10 @@
     },
     {
       "id": "terralith:snowy_shield",
+      "required": false
+    },
+    {
+      "id": "terralith:shield",
       "required": false
     },
     {
@@ -113,10 +139,6 @@
       "required": false
     },
     {
-      "id": "biomesoplenty:maple_woods",
-        "required": false
-    },
-    {
       "id": "biomesoplenty:old_growth_dead_forest",
       "required": false
     },
@@ -145,6 +167,14 @@
       "required": false
     },
     {
+      "id": "biomesoplenty:snowy_fir_clearing",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:snowy_maple_forest",
+      "required": false
+    },
+    {
       "id": "biomesoplenty:tundra",
       "required": false
     },
@@ -153,19 +183,63 @@
       "required": false
     },
     {
-      "id": "byg:redwood_thicket",
+      "id": "biomeswevegone:redwood_thicket",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:autumnal_taiga",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:canadian_shield",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:maple_taiga",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:black_forest",
+      "required": false
+    },        
+    {
+      "id": "biomeswevegone:dacite_ridges",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:borealis_grove",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:canadian_shield",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:cika_woods",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:aspen_boreal",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:black_forest",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:coniferous_forest",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:rose_fields",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:zelkova_forest",
       "required": false
     },
     {
       "id": "byg:autumnal_taiga",
-      "required": false
-    },
-    {
-      "id": "byg:canadian_shield",
-      "required": false
-    },
-    {
-      "id": "byg:maple_taiga",
       "required": false
     },
     {
@@ -205,10 +279,6 @@
       "required": false
     },
     {
-      "id": "wythers:birch_taiga",
-      "required": false
-    },
-    {
       "id": "wythers:boreal_forest_red",
       "required": false
     },
@@ -236,12 +306,36 @@
       "id": "wythers:thermal_taiga",
       "required": false
     },
+    {
+      "id": "wythers:cold_island",
+      "required": false
+    },
+    {
+      "id": "wythers:maple_mountains",
+      "required": false
+    },
+    {
+      "id": "tectonic:old_growth_snowy_taiga",
+      "required": false
+    },
 	  {
       "id": "regions_unexplored:boreal_forest",
       "required": false
     },
+    {
+      "id": "regions_unexplored:golden_boreal_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:old_growth_boreal_forest",
+      "required": false
+    },
 	  {
       "id": "regions_unexplored:maple_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:canadian_forest",
       "required": false
     },
 	  {
@@ -265,6 +359,14 @@
       "required": false
     },
     {
+        "id": "regions_unexplored:redwoods",
+        "required": false
+    },
+    {
+        "id": "regions_unexplored:sparse_redwoods",
+        "required": false
+    },
+    {
       "id": "projectvibrantjourneys:boreal_forest",
       "required": false
     },
@@ -274,6 +376,54 @@
     },
     {
       "id": "projectvibrantjourneys:redwoods",
+      "required": false
+    },
+    {
+      "id": "sensible:pine_swamp",
+      "required": false
+    },
+    {
+      "id": "sensible:taiga_swamp",
+      "required": false
+    },
+    {
+      "id": "sensible:pine_forest",
+      "required": false
+    },
+    {
+      "id": "sensible:pine_jungle",
+      "required": false
+    },
+    {
+      "id": "sensible:taiga_woodland",
+      "required": false
+    },
+    {
+      "id": "sensible:cold_woodland",
+      "required": false
+    },
+    {
+      "id": "sensible:cold_plains",
+      "required": false
+    },
+    {
+      "id": "sensible:cold_shrubland",
+      "required": false
+    },
+    {
+      "id": "traverse:coniferious_forest",
+      "required": false
+    },
+    {
+      "id": "terrestria:snowy_hemlock_forest",
+      "required": false
+    },
+    {
+      "id": "terrestria:hemlock_rainforest",
+      "required": false
+    },
+    {
+      "id": "tectonic:old_growth_snowy_taiga",
       "required": false
     }
   ]
