@@ -77,7 +77,8 @@
               "levels": {
                 "min": 20,
                 "max": 40
-              }
+              },
+              "options": "#village_hero:vanilla_enchantments"
             }
           ]
         },
@@ -92,7 +93,8 @@
               "levels": {
                 "min": 20,
                 "max": 40
-              }
+              },
+              "options": "#village_hero:vanilla_enchantments"
             }
           ]
         },
