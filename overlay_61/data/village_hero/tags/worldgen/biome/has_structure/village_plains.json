@@ -149,31 +149,11 @@
       "required": false
     },
     {
-      "id": "sensible:woodland",
-      "required": false
-    },
-    {
       "id": "biomeswevegone:prairie",
       "required": false
     },
     {
-      "id": "biomeswevegone:orchard",
-      "required": false
-    },
-    {
-      "id": "biomeswevegone:overgrowth_woodlands",
-      "required": false
-    },
-    {
-      "id": "biomeswevegone:temperate_grove",
-      "required": false
-    },
-    {
       "id": "biomeswevegone:allium_fields",
-      "required": false
-    },
-    {
-      "id": "biomeswevegone:temperate_rainforest",
       "required": false
     },
     {
