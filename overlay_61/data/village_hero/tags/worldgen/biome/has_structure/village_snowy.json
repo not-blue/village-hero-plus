@@ -66,10 +66,6 @@
       "required": false
     },
     {
-      "id": "terralith:glacial_chasm",
-      "required": false
-    },
-    {
       "id": "terralith:frozen_cliffs",
       "required": false
     },
@@ -170,10 +166,6 @@
       "required": false
     },
     {
-      "id": "wythers:snowy_tundra",
-      "required": false
-    },
-    {
       "id": "wythers:ice_cap",
       "required": false
     },
@@ -195,10 +187,6 @@
     },
     {
       "id": "wythers:tundra",
-      "required": false
-    },
-    {
-      "id": "wythers:snowy_tundra",
       "required": false
     },
     {

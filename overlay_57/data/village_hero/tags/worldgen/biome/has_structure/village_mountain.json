@@ -1,0 +1,40 @@
+{
+    "values": [
+        "minecraft:stony_peaks",
+        "minecraft:frozen_peaks",
+        "minecraft:jagged_peaks",
+        { 
+            "id": "terralith:emerald_peaks",
+            "required": false
+        },
+        { 
+            "id": "terralith:volcanic_peaks",
+            "required": false
+        },
+        {
+            "id": "terralith:skylands",
+            "required": false
+        },
+        {
+            "id": "eden:stony_peaks",
+            "required": false
+        },
+        { 
+            "id": "eden:frozen_peaks",
+            "required": false
+        },
+        { 
+            "id": "eden:jagged_peaks",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:skyris_vale",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:skyrise_vale",
+            "required": false
+        }
+
+    ]
+}

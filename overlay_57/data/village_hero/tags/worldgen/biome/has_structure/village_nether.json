@@ -1,6 +1,11 @@
 {
     "values": [
         "#minecraft:is_nether",
+        "minecraft:nether_wastes",
+        "minecraft:crimson_forest",
+        "minecraft:warped_forest",
+        "minecraft:soul_sand_valley",
+        "minecraft:basalt_deltas",
         {
             "id": "wythers:savanna_basaltic_incursions",
             "required": false
