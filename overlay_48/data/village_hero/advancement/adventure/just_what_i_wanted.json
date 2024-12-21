@@ -17,7 +17,7 @@
       "text": "It's Just What I Wanted!"
     },
     "description": {
-      "text": "Receive a rare or epic gift from a very grateful villager."
+      "text": "Receive a rare gift from a very grateful villager."
     },
     "frame": "goal",
     "show_toast": true,
@@ -43,7 +43,7 @@
           }
         ],
         "item": {
-          "items": "#village_hero:rare_and_epic_items"
+          "items": "#village_hero:rare_gifts"
         }
       }
     }

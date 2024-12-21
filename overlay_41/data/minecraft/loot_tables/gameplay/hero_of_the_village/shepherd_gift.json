@@ -199,7 +199,8 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:mojang_banner_pattern",
-          "weight": 5
+          "weight": 1,
+          "quality": 50
         },
         {
           "type": "minecraft:item",
@@ -214,7 +215,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:goat_horn",
-          "weight": 1,
+          "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_instrument",
