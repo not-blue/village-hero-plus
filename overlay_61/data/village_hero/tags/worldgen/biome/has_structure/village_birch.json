@@ -61,6 +61,10 @@
         {
             "id": "sensible:birch_swamp",
             "required": false
+        },
+        {
+            "id": "cynic:birch_forest_strand",
+            "required": false        
         }
 
 	]

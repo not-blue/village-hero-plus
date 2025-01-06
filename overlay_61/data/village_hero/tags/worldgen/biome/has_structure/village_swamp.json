@@ -108,6 +108,18 @@
     {
         "id": "sensible:taiga_swamp",
         "required": false
+    },
+    {
+        "id": "cynic:freshwater_swamp",
+        "required": false
+    },
+    {
+        "id": "cynic:muskeg",
+        "required": false
+    },
+    {
+        "id": "cynic:boglands",
+        "required": false
     }
 ]
 }

@@ -171,6 +171,14 @@
     {
       "id": "traverse:grasslands",
       "required": false
+    },
+    {
+      "id": "cynic:boreal_plains",
+      "required": false
+    },
+    {
+      "id": "cynic:arid_plains",
+      "required": false
     }
   ]
 }

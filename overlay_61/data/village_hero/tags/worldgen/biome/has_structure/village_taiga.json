@@ -377,6 +377,14 @@
     {
       "id": "tectonic:old_growth_snowy_taiga",
       "required": false
+    },
+    {
+      "id": "cynic:boreal_strand",
+      "required": false
+    },
+    {
+      "id": "cynic:boreal_plains",
+      "required": false
     }
   ]
 }

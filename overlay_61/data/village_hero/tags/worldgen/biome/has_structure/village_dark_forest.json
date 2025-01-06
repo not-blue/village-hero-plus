@@ -1,5 +1,6 @@
 { 
 	"values": [
+	"#minecraft:has_structure/woodland_mansion",
 	"minecraft:dark_forest",
 	  {
 		"id": "terralith:mirage_isles",
@@ -59,6 +60,14 @@
 	  },
 	  {
 		"id": "regions_unexplored:sparse_redwoods",
+		"required": false
+	  },
+	  {
+		"id": "cynic:snowy_dark_forest",
+		"required": false
+	  },
+	  {
+		"id": "cynic:dark_forest_river",
 		"required": false
 	  }
 	]

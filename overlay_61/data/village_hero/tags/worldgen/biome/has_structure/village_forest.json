@@ -195,6 +195,22 @@
         {
             "id": "traverse:autumnal_woods",
             "required": false
+        },
+        {
+            "id": "cynic:forest_strand",
+            "required": false
+        },
+        {
+            "id": "cynic:old_growth_forest",
+            "required": false
+        },
+        {
+            "id": "cynic:snowy_forest",
+            "required": false
+        },
+        {
+            "id": "cynic:arboretum",
+            "required": false
         }
 
 	]

@@ -191,6 +191,10 @@
 	{
 		"id": "biomeswevegone:enchanted_tangle",
 		"required": false
+	},
+	{
+		"id": "cynic:jungle_strand",
+		"required": false
 	}
 ]
 }

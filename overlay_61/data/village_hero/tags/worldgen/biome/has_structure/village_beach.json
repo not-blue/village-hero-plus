@@ -79,6 +79,42 @@
         {
             "id": "blooming_biosphere:tidepools",
             "required": false
+        },
+        {
+            "id": "cynic:cold_beach",
+            "required": false
+        },
+        {
+            "id": "cynic:lukewarm_beach",
+            "required": false
+        },
+        {
+            "id": "cynic:warm_beach",
+            "required": false
+        },
+        {
+            "id": "cynic:snowy_stony_shore",
+            "required": false
+        },
+        {
+            "id": "cynic:cold_stony_shore",
+            "required": false
+        },
+        {
+            "id": "cynic:diorite_stony_shore",
+            "required": false
+        },
+        {
+            "id": "cynic:granite_stony_shore",
+            "required": false
+        },
+        {
+            "id": "cynic:lukewarm_stony_shore",
+            "required": false
+        },
+        {
+            "id": "cynic:warm_stony_shore",
+            "required": false
         }
 	]
 }

@@ -156,6 +156,14 @@
     {
       "id": "regions_unexplored:shrubland",
       "required": false
+    },
+    {
+      "id": "cynic:savanna_strand",
+      "required": false
+    },
+    {
+      "id": "cynic:verdant_savanna",
+      "required": false
     }
 
   ]

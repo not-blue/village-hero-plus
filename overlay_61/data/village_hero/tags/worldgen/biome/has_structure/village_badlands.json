@@ -115,6 +115,14 @@
 	{
 		"id": "biomesoplenty:wooded_scrubland",
 		"required": false
+	},
+	{
+		"id": "cynic:painted_badlands",
+		"required": false
+	},
+	{
+		"id": "cynic:badlands_caves",
+		"required": false
 	}
 	]
 }
