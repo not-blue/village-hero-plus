@@ -9,6 +9,10 @@
         {
             "id": "wythers:savanna_basaltic_incursions",
             "required": false
+        },
+        {
+            "id": "an:wart_heap",
+            "required": false
         }
     ]
 }
