@@ -1,32 +1,27 @@
 {
   "pack": {
-    "pack_format": 15,
+    "pack_format": 57,
     "supported_formats": {
-      "min_inclusive": 15,
+      "min_inclusive": 57,
       "max_inclusive": 999
     },
-    "description": "Get better loot from villagers after defeating a raid"
+    "description": "Get better loot from villagers after defeating a raid. For Minecraft 1.21.2+."
   },
   "overlays": {
     "entries": [
       {
-        "formats": 41,
-        "directory": "overlay_41"
-      },
-      {
-        "formats": 48,
-        "directory": "overlay_48"
-      },
-      {
-        "formats": 57,
-        "directory": "overlay_57"
+        "formats": {
+          "min_inclusive": 61,
+          "max_inclusive": 70
+        },
+        "directory": "overlay_61"
       },
       {
         "formats": {
-          "min_inclusive": 61,
+          "min_inclusive": 71,
           "max_inclusive": 999
         },
-        "directory": "overlay_61"
+        "directory": "overlay_71"
       }
     ]
 }
