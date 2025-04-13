@@ -4,11 +4,7 @@
 		"minecraft:stony_shore",
         "minecraft:snowy_beach",
         "#minecraft:is_beach",
-		{
-			"id": "terralith:gravel_beach",
-			"required": false
-		},
-		{
+        {
             "id": "biomesoplenty:dune_beach",
             "required": false
         },
@@ -21,31 +17,51 @@
             "required": false
         },
         {
-            "id": "wythers:black_beach",
+            "id": "blooming_biosphere:tidepools",
             "required": false
         },
         {
-            "id": "wythers:desert_beach",
+            "id": "clifftree:temperate_beach",
             "required": false
         },
         {
-            "id": "wythers:gravelly_beach",
+            "id": "clifftree:gravelly_beach",
             "required": false
         },
         {
-            "id": "wythers:sand_dunes",
+            "id": "cynic:cold_beach",
             "required": false
         },
         {
-            "id": "wythers:tropical_beach",
+            "id": "cynic:lukewarm_beach",
             "required": false
         },
         {
-            "id": "tectonic:cold_beach",
+            "id": "cynic:warm_beach",
             "required": false
         },
         {
-            "id": "tectonic:lukewarm_beach",
+            "id": "cynic:snowy_stony_shore",
+            "required": false
+        },
+        {
+            "id": "cynic:cold_stony_shore",
+            "required": false
+        },
+        {
+            "id": "cynic:diorite_stony_shore",
+            "required": false
+        },
+        {
+            "id": "cynic:granite_stony_shore",
+            "required": false
+        },
+        {
+            "id": "cynic:lukewarm_stony_shore",
+            "required": false
+        },
+        {
+            "id": "cynic:warm_stony_shore",
             "required": false
         },
         {
@@ -76,8 +92,32 @@
             "id": "sensible:warm_coast",
             "required": false
         },
+		{
+			"id": "terralith:gravel_beach",
+			"required": false
+		},
         {
-            "id": "blooming_biosphere:tidepools",
+            "id": "terrestria:volcanic_island",
+            "required": false
+        },
+        {
+            "id": "wythers:black_beach",
+            "required": false
+        },
+        {
+            "id": "wythers:desert_beach",
+            "required": false
+        },
+        {
+            "id": "wythers:gravelly_beach",
+            "required": false
+        },
+        {
+            "id": "wythers:sand_dunes",
+            "required": false
+        },
+        {
+            "id": "wythers:tropical_beach",
             "required": false
         }
 	]

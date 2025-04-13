@@ -2,6 +2,10 @@
 	"values": [
 		"minecraft:mangrove_swamp",
 		{
+			"id": "sensible:mangrove_jungle",
+			"required": false
+		},
+		{
 		  "id": "wythers:tangled_forest",
 		  "required": false
 		},
@@ -28,11 +32,8 @@
 		{
 		  "id": "wythers:autumnal_swamp",
 		  "required": false
-		},
-		{
-			"id": "sensible:mangrove_jungle",
-			"required": false
 		}
+
 
 	]
 }

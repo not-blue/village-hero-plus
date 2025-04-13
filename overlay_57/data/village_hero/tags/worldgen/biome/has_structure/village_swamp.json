@@ -13,12 +13,36 @@
         "id": "biomesoplenty:highland_moor",
         "required": false
     },
-	{ 
-        "id": "terralith:orchid_swamp",
+    {
+        "id": "biomesoplenty:bog",
+        "required": false
+    },
+    {
+        "id": "biomesoplenty:marsh",
+        "required": false
+    },
+    {
+        "id": "biomeswevegone:cypress_swamplands",
+        "required": false
+    },
+    {
+        "id": "blooming_biosphere:marsh",
         "required": false
     },
     {
         "id": "clifftree:bog",
+        "required": false
+    },
+    {
+        "id": "cynic:freshwater_swamp",
+        "required": false
+    },
+    {
+        "id": "cynic:muskeg",
+        "required": false
+    },
+    {
+        "id": "cynic:boglands",
         "required": false
     },
     {
@@ -39,42 +63,6 @@
     },
     {
         "id": "regions_unexplored:fungal_fen",
-        "required": false
-    },
-    {
-        "id": "blooming_biosphere:marsh",
-        "required": false
-    },
-    {
-        "id": "biomeswevegone:cypress_swamplands",
-        "required": false
-    },
-    {
-        "id": "wythers:ancient_mossy_swamp",
-        "required": false
-    },
-    {
-        "id": "wythers:ancient_oak_swamp",
-        "required": false
-    },
-    {
-        "id": "wythers:marsh",
-        "required": false
-    },
-    {
-        "id": "wythers:waterlilly_swamp",
-        "required": false
-    },
-    {
-        "id": "wythers:dripleaf_swamp",
-        "required": false
-    },
-    {
-        "id": "wythers:pantanal",
-        "required": false
-    },
-    {
-        "id": "wythers:flowering_pantanal",
         "required": false
     },
     {
@@ -107,6 +95,46 @@
     },
     {
         "id": "sensible:taiga_swamp",
+        "required": false
+    },
+    { 
+        "id": "terralith:orchid_swamp",
+        "required": false
+    },
+    {
+        "id": "terrestria:cypress_swamp",
+        "required": false
+    },
+    {
+        "id": "traverse:lush_swamp",
+        "required": false
+    },
+    {
+        "id": "wythers:ancient_mossy_swamp",
+        "required": false
+    },
+    {
+        "id": "wythers:ancient_oak_swamp",
+        "required": false
+    },
+    {
+        "id": "wythers:marsh",
+        "required": false
+    },
+    {
+        "id": "wythers:waterlilly_swamp",
+        "required": false
+    },
+    {
+        "id": "wythers:dripleaf_swamp",
+        "required": false
+    },
+    {
+        "id": "wythers:pantanal",
+        "required": false
+    },
+    {
+        "id": "wythers:flowering_pantanal",
         "required": false
     }
 ]

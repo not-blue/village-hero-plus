@@ -37,75 +37,19 @@
       "required": false
     },
     {
-      "id": "terralith:alpha_islands",
+      "id": "biomeswevegone:prairie",
       "required": false
     },
     {
-      "id": "terralith:blooming_plateau",
+      "id": "biomeswevegone:allium_fields",
       "required": false
     },
     {
-      "id": "terralith:temperate_highlands",
+      "id": "cynic:boreal_plains",
       "required": false
     },
     {
-      "id": "terralith:brushland",
-      "required": false
-    },
-    {
-      "id": "terralith:highlands",
-      "required": false
-    },
-    {
-      "id": "terralith:steppe",
-      "required": false
-    },
-    {
-      "id": "terralith:alpine_highlands",
-      "required": false
-    },
-    {
-      "id": "wythers:autumnal_plains",
-      "required": false
-    },
-    {
-      "id": "wythers:cool_plains",
-      "required": false
-    },
-    {
-      "id": "wythers:cold_plains",
-      "required": false
-    },
-    {
-      "id": "wythers:highland_plains",
-      "required": false
-    },
-    {
-      "id": "wythers:highlands",
-      "required": false
-    },
-    {
-      "id": "wythers:harvest_fields",
-      "required": false
-    },
-    {
-      "id": "wythers:subtropical_grassland",
-      "required": false
-    },
-    {
-      "id": "wythers:jade_highlands",
-      "required": false
-    },
-    {
-      "id": "wythers:temperate_island",
-      "required": false
-    },
-    {
-      "id": "wythers:mediterranean_island",
-      "required": false
-    },
-    {
-      "id": "terralith:shrubland",
+      "id": "cynic:arid_plains",
       "required": false
     },
     {
@@ -149,23 +93,35 @@
       "required": false
     },
     {
-      "id": "biomeswevegone:prairie",
+      "id": "terralith:alpha_islands",
       "required": false
     },
     {
-      "id": "biomeswevegone:allium_fields",
+      "id": "terralith:blooming_plateau",
       "required": false
     },
     {
-      "id": "tectonic:alpine_meadow",
+      "id": "terralith:temperate_highlands",
       "required": false
     },
     {
-      "id": "tectonic:cold_plains",
+      "id": "terralith:brushland",
       "required": false
     },
     {
-      "id": "tectonic:grasslands",
+      "id": "terralith:highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:steppe",
+      "required": false
+    },
+    {
+      "id": "terralith:alpine_highlands",
+      "required": false
+    },
+    {
+      "id": "terralith:shrubland",
       "required": false
     },
     {
@@ -173,11 +129,47 @@
       "required": false
     },
     {
-      "id": "cynic:boreal_plains",
+      "id": "traverse:flatlands",
       "required": false
     },
     {
-      "id": "cynic:arid_plains",
+      "id": "wythers:autumnal_plains",
+      "required": false
+    },
+    {
+      "id": "wythers:cool_plains",
+      "required": false
+    },
+    {
+      "id": "wythers:cold_plains",
+      "required": false
+    },
+    {
+      "id": "wythers:highland_plains",
+      "required": false
+    },
+    {
+      "id": "wythers:highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:harvest_fields",
+      "required": false
+    },
+    {
+      "id": "wythers:subtropical_grassland",
+      "required": false
+    },
+    {
+      "id": "wythers:jade_highlands",
+      "required": false
+    },
+    {
+      "id": "wythers:temperate_island",
+      "required": false
+    },
+    {
+      "id": "wythers:mediterranean_island",
       "required": false
     }
   ]

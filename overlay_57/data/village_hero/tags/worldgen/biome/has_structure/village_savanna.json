@@ -26,6 +26,82 @@
       "required": false
     },
     {
+      "id": "biomeswevegone:araucaria_savanna",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:baobab_savanna",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:firecracker_shrubland",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:ironwood_gour",
+      "required": false
+    },
+    {
+      "id": "blooming_biosphere:chaparral",
+      "required": false
+    },
+    {
+      "id": "cynic:savanna_strand",
+      "required": false
+    },
+    {
+      "id": "cynic:verdant_savanna",
+      "required": false
+    },
+    {
+      "id": "jermsy:shrubland",
+      "required": false
+    },
+    {
+      "id": "projectvibrantjourneys:baobab_fields",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:baobab_savanna",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:barley_fields",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:dry_bushland",
+      "required": false
+    },
+	  {
+      "id": "regions_unexplored:steppe",
+      "required": false
+    },
+    {
+      "id": "sensible:savanna_plains",
+      "required": false
+    },
+    {
+      "id": "sensible:savanna_forest",
+      "required": false
+    },
+    {
+      "id": "sensible:savanna_jungle",
+      "required": false
+    },
+    {
+      "id": "sensible:warm_woodland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:shrubland",
+      "required": false
+    },
+    {
+      "id": "terrestria:outback",
+      "required": false
+    },
+    {
       "id": "terralith:arid_highlands",
       "required": false
     },    
@@ -87,74 +163,6 @@
     },
     {
       "id": "wythers:sparse_eucalyptus_woodland",
-      "required": false
-    },
-    {
-      "id": "projectvibrantjourneys:baobab_fields",
-      "required": false
-    },
-    {
-      "id": "regions_unexplored:baobab_savanna",
-      "required": false
-    },
-	  {
-      "id": "regions_unexplored:barley_fields",
-      "required": false
-    },
-	  {
-      "id": "regions_unexplored:dry_bushland",
-      "required": false
-    },
-	  {
-      "id": "regions_unexplored:steppe",
-      "required": false
-    },
-    {
-      "id": "blooming_biosphere:chaparral",
-      "required": false
-    },
-    {
-      "id": "sensible:savanna_plains",
-      "required": false
-    },
-    {
-      "id": "sensible:savanna_forest",
-      "required": false
-    },
-    {
-      "id": "sensible:savanna_jungle",
-      "required": false
-    },
-    {
-      "id": "sensible:warm_woodland",
-      "required": false
-    },
-    {
-      "id": "biomeswevegone:araucaria_savanna",
-      "required": false
-    },
-    {
-      "id": "biomeswevegone:baobab_savanna",
-      "required": false
-    },
-    {
-      "id": "biomeswevegone:firecracker_shrubland",
-      "required": false
-    },
-    {
-      "id": "biomeswevegone:ironwood_gour",
-      "required": false
-    },
-    {
-      "id": "tectonic:grasslands",
-      "required": false
-    },
-    {
-      "id": "jermsy:shrubland",
-      "required": false
-    },
-    {
-      "id": "regions_unexplored:shrubland",
       "required": false
     }
 

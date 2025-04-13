@@ -10,10 +10,6 @@
         "minecraft:ocean",
         "minecraft:deep_ocean",
         {
-            "id": "tectonic:lagoon",
-            "required": false
-        },
-        {
             "id": "cynic:ocean_trench",
             "required": false
         },

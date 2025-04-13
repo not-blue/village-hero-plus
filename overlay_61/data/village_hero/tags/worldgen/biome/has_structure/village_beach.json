@@ -4,11 +4,7 @@
 		"minecraft:stony_shore",
         "minecraft:snowy_beach",
         "#minecraft:is_beach",
-		{
-			"id": "terralith:gravel_beach",
-			"required": false
-		},
-		{
+        {
             "id": "biomesoplenty:dune_beach",
             "required": false
         },
@@ -21,63 +17,15 @@
             "required": false
         },
         {
-            "id": "wythers:black_beach",
-            "required": false
-        },
-        {
-            "id": "wythers:desert_beach",
-            "required": false
-        },
-        {
-            "id": "wythers:gravelly_beach",
-            "required": false
-        },
-        {
-            "id": "wythers:sand_dunes",
-            "required": false
-        },
-        {
-            "id": "wythers:tropical_beach",
-            "required": false
-        },
-        {
-            "id": "tectonic:cold_beach",
-            "required": false
-        },
-        {
-            "id": "tectonic:lukewarm_beach",
-            "required": false
-        },
-        {
-            "id": "jermsy:gravelly_beach",
-            "required": false
-        },
-        {
-            "id": "regions_unexplored:grassy_beach",
-            "required": false
-        },
-        {
-            "id": "regions_unexplored:gravel_beach",
-            "required": false
-        },
-        {
-            "id": "sensible:cold_coast",
-            "required": false
-        },
-        {
-            "id": "sensible:coast",
-            "required": false
-        },
-        {
-            "id": "sensible:lukewarm_coast",
-            "required": false
-        },
-        {
-            "id": "sensible:warm_coast",
-            "required": false
-        },
-        {
             "id": "blooming_biosphere:tidepools",
+            "required": false
+        },
+        {
+            "id": "clifftree:temperate_beach",
+            "required": false
+        },
+        {
+            "id": "clifftree:gravelly_beach",
             "required": false
         },
         {
@@ -114,6 +62,62 @@
         },
         {
             "id": "cynic:warm_stony_shore",
+            "required": false
+        },
+        {
+            "id": "jermsy:gravelly_beach",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:grassy_beach",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:gravel_beach",
+            "required": false
+        },
+        {
+            "id": "sensible:cold_coast",
+            "required": false
+        },
+        {
+            "id": "sensible:coast",
+            "required": false
+        },
+        {
+            "id": "sensible:lukewarm_coast",
+            "required": false
+        },
+        {
+            "id": "sensible:warm_coast",
+            "required": false
+        },
+		{
+			"id": "terralith:gravel_beach",
+			"required": false
+		},
+        {
+            "id": "terrestria:volcanic_island",
+            "required": false
+        },
+        {
+            "id": "wythers:black_beach",
+            "required": false
+        },
+        {
+            "id": "wythers:desert_beach",
+            "required": false
+        },
+        {
+            "id": "wythers:gravelly_beach",
+            "required": false
+        },
+        {
+            "id": "wythers:sand_dunes",
+            "required": false
+        },
+        {
+            "id": "wythers:tropical_beach",
             "required": false
         }
 	]

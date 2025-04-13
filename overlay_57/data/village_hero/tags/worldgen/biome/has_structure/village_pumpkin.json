@@ -9,15 +9,15 @@
             "required": false
         },
         {
-            "id": "regions_unexplored:pumpkin_fields",
-            "required": false
-        },
-        {
             "id": "biomesoplenty:pumpkin_patch",
             "required": false
         },
         {
             "id": "promenade:pumpkin_pastures",
+            "required": false
+        },
+        {
+            "id": "regions_unexplored:pumpkin_fields",
             "required": false
         }
     ]

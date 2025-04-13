@@ -7,11 +7,67 @@
         "minecraft:soul_sand_valley",
         "minecraft:basalt_deltas",
         {
-            "id": "wythers:savanna_basaltic_incursions",
+            "id": "an:wart_heap",
             "required": false
         },
         {
-            "id": "an:wart_heap",
+            "id": "an:crimson_plains",
+            "required": false
+        },
+        {
+            "id": "an:warped_plains",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:crystalline_chasm",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:erupting_inferno",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:undergrowth",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:visceral_heap",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:withered_abyss",
+            "required": false
+        },
+        {
+            "id": "cinderscapes:ashy_shoals",
+            "required": false
+        },
+        {
+            "id": "cinderscapes:blackstone_shales",
+            "required": false
+        },
+        {
+            "id": "cinderscapes:luminous_grove",
+            "required": false
+        },
+        {
+            "id": "cinderscapes:quartz_cavern",
+            "required": false
+        },
+        {
+            "id": "endercon:end_sky_islands",
+            "required": false
+        },
+        {
+            "id": "endercon:end_skies",
+            "required": false
+        },
+        {
+            "id": "endercon:end_hallows",
+            "required": false
+        },
+        {
+            "id": "endercon:end_depths",
             "required": false
         },
         {
@@ -57,7 +113,26 @@
         {
             "id": "lavaflow:warped_forest_layer",
             "required": false
+        },
+        {
+            "id": "nullscape:crystal_peaks",
+            "required": false
+        },
+        {
+            "id": "nullscape:shadowlands",
+            "required": false
+        },
+        {
+            "id": "nullscape:void_barrens",
+            "required": false
+        },
+        {
+            "id": "promenade:dark_amaranth_forest",
+            "required": false
+        },
+        {
+            "id": "wythers:savanna_basaltic_incursions",
+            "required": false
         }
-
     ]
 }

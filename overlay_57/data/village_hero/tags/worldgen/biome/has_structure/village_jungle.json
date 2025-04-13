@@ -25,23 +25,35 @@
 		"required": false
 	},
 	{
-		"id": "terralith:jungle_mountains",
+		"id": "biomeswevegone:jacaranda_jungle",
 		"required": false
 	},
 	{
-		"id": "terralith:rocky_jungle",
-		"required": false
-	},
-	{ 
-		"id": "terralith:tropical_jungle",
+		"id": "biomeswevegone:tropical_rainforest",
 		"required": false
 	},
 	{
-		"id": "terralith:amethyst_rainforest",
+		"id": "biomeswevegone:enchanted_tangle",
+		"required": false
+	},
+	{
+		"id": "blooming_biosphere:rainforest",
 		"required": false
 	},
 	{
 		"id": "clifftree:tropical_river",
+		"required": false
+	},
+	{
+		"id": "cynic:jungle_strand",
+		"required": false
+	},
+	{
+		"id": "hybrid_beta:rainforest",
+		"required": false
+	},
+	{
+		"id": "jermsy:rainforest",
 		"required": false
 	},
 	{
@@ -64,6 +76,54 @@
       	"id": "regions_unexplored:tropics",
       	"required": false
     },
+	{
+		"id": "sensible:bamboo_swamp",
+		"required": false
+	},
+	{
+		"id": "sensible:jungle_swamp",
+		"required": false
+	},
+	{
+		"id": "sensible:jungle_woodland",
+		"required": false
+	},
+	{
+		"id": "sensible:jungle_forest",
+		"required": false
+	},
+	{
+		"id": "sensible:mangrove_jungle",
+		"required": false
+	},
+	{
+		"id": "sensible:pine_jungle",
+		"required": false
+	},
+	{
+		"id": "sensible:savanna_jungle",
+		"required": false
+	},
+	{
+		"id": "terralith:jungle_mountains",
+		"required": false
+	},
+	{
+		"id": "terralith:rocky_jungle",
+		"required": false
+	},
+	{ 
+		"id": "terralith:tropical_jungle",
+		"required": false
+	},
+	{
+		"id": "terralith:amethyst_rainforest",
+		"required": false
+	},
+	{
+		"id": "terrestria:rainbow_rainforest",
+		"required": false
+	},
 	{
 		"id": "wythers:sandy_jungle",
 		"required": false
@@ -139,58 +199,9 @@
 	{
 		"id": "wythers:tropical_grassland",
 		"required": false
-	},
-	{
-		"id": "sensible:bamboo_swamp",
-		"required": false
-	},
-	{
-		"id": "sensible:jungle_swamp",
-		"required": false
-	},
-	{
-		"id": "sensible:jungle_woodland",
-		"required": false
-	},
-	{
-		"id": "sensible:jungle_forest",
-		"required": false
-	},
-	{
-		"id": "sensible:mangrove_jungle",
-		"required": false
-	},
-	{
-		"id": "sensible:pine_jungle",
-		"required": false
-	},
-	{
-		"id": "sensible:savanna_jungle",
-		"required": false
-	},
-	{
-		"id": "blooming_biosphere:rainforest",
-		"required": false
-	},
-	{
-		"id": "jermsy:rainforest",
-		"required": false
-	},
-	{
-		"id": "hybrid_beta:rainforest",
-		"required": false
-	},
-	{
-		"id": "biomeswevegone:jacaranda_jungle",
-		"required": false
-	},
-	{
-		"id": "biomeswevegone:tropical_rainforest",
-		"required": false
-	},
-	{
-		"id": "biomeswevegone:enchanted_tangle",
-		"required": false
 	}
+
+
+
 ]
 }

@@ -1,10 +1,7 @@
 { 
 	"values": [
+	"#minecraft:has_structure/woodland_mansion",
 	"minecraft:dark_forest",
-	  {
-		"id": "terralith:mirage_isles",
-		"required": false
-	  },
 	  {
 		"id": "biomeswevegone:ancient_forest",
 		"required": false
@@ -18,23 +15,11 @@
 		"required": false
 	  },
 	  {
-		"id": "wythers:ancient_moss_forest",
+		"id": "cynic:snowy_dark_forest",
 		"required": false
 	  },
 	  {
-		"id": "wythers:deep_dark_forest",
-		"required": false
-	  },
-	  {
-		"id": "wythers:forbidden_forest",
-		"required": false
-	  },
-	  {
-		"id": "wythers:phantasmal_forest",
-		"required": false
-	  },
-	  {
-		"id": "wythers:phantasmal_swamp",
+		"id": "cynic:dark_forest_river",
 		"required": false
 	  },
 	  {
@@ -59,6 +44,30 @@
 	  },
 	  {
 		"id": "regions_unexplored:sparse_redwoods",
+		"required": false
+	  },
+	  {
+		"id": "terralith:mirage_isles",
+		"required": false
+	  },
+	  {
+		"id": "wythers:ancient_moss_forest",
+		"required": false
+	  },
+	  {
+		"id": "wythers:deep_dark_forest",
+		"required": false
+	  },
+	  {
+		"id": "wythers:forbidden_forest",
+		"required": false
+	  },
+	  {
+		"id": "wythers:phantasmal_forest",
+		"required": false
+	  },
+	  {
+		"id": "wythers:phantasmal_swamp",
 		"required": false
 	  }
 	]

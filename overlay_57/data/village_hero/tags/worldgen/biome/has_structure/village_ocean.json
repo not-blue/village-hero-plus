@@ -10,8 +10,23 @@
         "minecraft:ocean",
         "minecraft:deep_ocean",
         {
-            "id": "tectonic:lagoon",
+            "id": "cynic:ocean_trench",
             "required": false
+        },
+        {
+            "id": "cynic:hydrothermal_vents",
+            "required": false
+        },
+        {
+            "id": "cynic:abyssal_plain",
+            "required": false
+        },
+        {
+            "id": "cynic:kelp_forest",
+            "required": false
+        },
+        {
+            "id": "cynic:sunken_forest"
         }
     ]
 }

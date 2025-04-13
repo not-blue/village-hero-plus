@@ -2,6 +2,10 @@
     "values": [
       "minecraft:mushroom_fields",
       {
+        "id": "clifftree:mushroom_caves",
+        "required": false
+      },
+      {
         "id": "terralith:cave/fungal_caves",
         "required": false
       },

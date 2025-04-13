@@ -3,6 +3,19 @@
         "minecraft:stony_peaks",
         "minecraft:frozen_peaks",
         "minecraft:jagged_peaks",
+        "minecraft:grove",
+        {
+            "id": "biomeswevegone:skyris_vale",
+            "required": false
+        },
+        {
+            "id": "biomeswevegone:skyrise_vale",
+            "required": false
+        },
+        {
+            "id": "#clifftree:is_cliff",
+            "required": false
+        },
         { 
             "id": "terralith:emerald_peaks",
             "required": false
@@ -16,23 +29,23 @@
             "required": false
         },
         {
-            "id": "eden:stony_peaks",
-            "required": false
-        },
-        { 
-            "id": "eden:frozen_peaks",
-            "required": false
-        },
-        { 
-            "id": "eden:jagged_peaks",
+            "id": "terrestria:caldera",
             "required": false
         },
         {
-            "id": "biomeswevegone:skyris_vale",
+            "id": "terrestria:volcanic_island",
             "required": false
         },
         {
-            "id": "biomeswevegone:skyrise_vale",
+            "id": "terrestria:hemlock_treeline",
+            "required": false
+        },
+        {
+            "id": "terrestria:snowy_hemlock_treeline",
+            "required": false
+        },
+        {
+            "id": "terrestria:windswept_redwood_forest",
             "required": false
         }
 
