@@ -26,7 +26,8 @@
             "required": false
         },
         {
-            "id": "cynic:sunken_forest"
+            "id": "cynic:sunken_forest",
+            "required": false
         },
         {
             "id": "wilderwild:mesoglea_caves",
