@@ -133,6 +133,10 @@
       "required": false
     },
     {
+      "id": "wilderwild:flower_field",
+      "required": false
+    },
+    {
       "id": "wythers:autumnal_plains",
       "required": false
     },

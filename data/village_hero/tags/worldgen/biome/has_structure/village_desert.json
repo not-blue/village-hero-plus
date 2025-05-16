@@ -131,6 +131,10 @@
       "required": false
     },
     {
+      "id": "wilderwild:oasis",
+      "required": false
+    },
+    {
       "id": "wythers:deep_desert",
       "required": false
     },

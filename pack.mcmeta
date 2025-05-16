@@ -12,7 +12,7 @@
       {
         "formats": {
           "min_inclusive": 61,
-          "max_inclusive": 70
+          "max_inclusive": 999
         },
         "directory": "overlay_61"
       },

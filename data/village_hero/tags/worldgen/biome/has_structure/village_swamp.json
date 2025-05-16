@@ -110,6 +110,10 @@
         "required": false
     },
     {
+        "id": "wilderwild:cypress_wetlands",
+        "required": false
+    },
+    {
         "id": "wythers:ancient_mossy_swamp",
         "required": false
     },

@@ -173,6 +173,14 @@
             "required": false
         },
         {
+            "id": "wilderwild:temperate_rainforest",
+            "required": false
+        },
+        {
+            "id": "wilderwild:mixed_forest",
+            "required": false
+        },
+        {
             "id": "wythers:ancient_copper_beech_forest",
             "required": false
         },

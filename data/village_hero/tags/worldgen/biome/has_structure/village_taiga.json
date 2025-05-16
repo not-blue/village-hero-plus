@@ -332,6 +332,10 @@
       "required": false
     },
     {
+      "id": "wilderwild:dark_taiga",
+      "required": false
+    },
+    {
       "id": "wythers:flooded_temperate_rainforest",
       "required": false
     },

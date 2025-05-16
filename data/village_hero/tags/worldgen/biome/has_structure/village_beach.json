@@ -101,6 +101,10 @@
             "required": false
         },
         {
+            "id": "wilderwild:warm_beach",
+            "required": false
+        },
+        {
             "id": "wythers:black_beach",
             "required": false
         },
