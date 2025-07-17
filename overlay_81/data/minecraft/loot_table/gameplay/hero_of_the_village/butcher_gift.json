@@ -9,7 +9,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_beef",
-          "weight": 25,
+          "weight": 50,
           "quality": 1,
           "functions": [
             {
@@ -25,7 +25,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_chicken",
-          "weight": 25,
+          "weight": 50,
           "quality": 1,
           "functions": [
             {
@@ -41,7 +41,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_mutton",
-          "weight": 25,
+          "weight": 50,
           "quality": 1,
           "functions": [
             {
@@ -57,7 +57,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_porkchop",
-          "weight": 25,
+          "weight": 50,
           "quality": 1,
           "functions": [
             {
@@ -73,7 +73,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cooked_rabbit",
-          "weight": 25,
+          "weight": 50,
           "quality": 1,
           "functions": [
             {
@@ -89,13 +89,13 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:rabbit_stew",
-          "weight": 20,
+          "weight": 40,
           "quality": 1
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:feather",
-          "weight": 20,
+          "weight": 40,
           "quality": 1,
           "functions": [
             {
@@ -111,7 +111,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:sweet_berries",
-          "weight": 15,
+          "weight": 20,
           "quality": 5,
           "functions": [
             {
@@ -127,7 +127,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:rabbit_hide",
-          "weight": 15,
+          "weight": 20,
           "quality": 5,
           "functions": [
             {
@@ -144,7 +144,23 @@
           "type": "minecraft:item",
           "name": "minecraft:bone_block",
           "weight": 4,
-          "quality": 10,
+          "quality": 20,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:rabbit_foot",
+          "weight": 4,
+          "quality": 8,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -167,6 +183,12 @@
               "id": "minecraft:luck"
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_lava_chicken",
+          "weight": 1,
+          "quality": 50
         }
       ]
     }
