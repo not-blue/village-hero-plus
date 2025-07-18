@@ -156,8 +156,20 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:blaze_rod",
+          "name": "minecraft:ghast_tear",
           "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 4,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blaze_rod",
+          "weight": 4,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -171,20 +183,8 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:ghast_tear",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 4,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:breeze_rod",
-          "weight": 5,
+          "weight": 4,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -200,7 +200,6 @@
           "type": "minecraft:item",
           "name": "minecraft:dragon_breath",
           "weight": 4,
-          "quality": 40,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -208,6 +207,12 @@
               "add": false
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dried_ghast",
+          "weight": 2,
+          "quality": 40
         },
         {
           "type": "minecraft:item",
