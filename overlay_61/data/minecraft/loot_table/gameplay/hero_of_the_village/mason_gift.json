@@ -8,7 +8,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:chiseled_stone_bricks",
-          "weight": 16,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -20,7 +20,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:chiseled_deepslate",
-          "weight": 16,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -32,7 +32,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:chiseled_red_sandstone",
-          "weight": 16,
+          "weight": 12,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -44,54 +44,6 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:chiseled_sandstone",
-          "weight": 16,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:dripstone_block",
-          "weight": 12,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:chiseled_nether_bricks",
-          "weight": 12,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:chiseled_polished_blackstone",
-          "weight": 12,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:chiseled_quartz_block",
           "weight": 12,
           "functions": [
             {
@@ -127,7 +79,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:smooth_red_sandstone",
+          "name": "minecraft:resin_bricks",
           "weight": 12,
           "functions": [
             {
@@ -139,43 +91,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:smooth_sandstone",
-          "weight": 12,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:smooth_basalt",
-          "weight": 12,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:polished_basalt",
-          "weight": 12,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 8,
-              "add": false
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:calcite",
+          "name": "minecraft:chiseled_resin_bricks",
           "weight": 12,
           "functions": [
             {
@@ -369,6 +285,114 @@
           "type": "minecraft:item",
           "name": "minecraft:brown_glazed_terracotta",
           "weight": 12,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dripstone_block",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_nether_bricks",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_polished_blackstone",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_quartz_block",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:smooth_red_sandstone",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:smooth_sandstone",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:smooth_basalt",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_basalt",
+          "weight": 11,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8,
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:calcite",
+          "weight": 11,
           "functions": [
             {
               "function": "minecraft:set_count",
