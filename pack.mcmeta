@@ -5,7 +5,7 @@
       "min_inclusive": 57,
       "max_inclusive": 999
     },
-    "description": "Get better loot from villagers after defeating a raid. For Minecraft 1.21.2+."
+    "description": "Get better loot from villagers after defeating a raid."
   },
   "overlays": {
     "entries": [
