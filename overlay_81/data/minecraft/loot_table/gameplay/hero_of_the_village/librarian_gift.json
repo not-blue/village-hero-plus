@@ -212,7 +212,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:music_lava_chicken",
+          "name": "minecraft:music_disc_lava_chicken",
           "weight": 1,
           "quality": 100
         }
