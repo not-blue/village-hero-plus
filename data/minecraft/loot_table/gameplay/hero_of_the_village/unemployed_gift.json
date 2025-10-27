@@ -8,27 +8,42 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:mushroom_stew",
-          "weight": 20
+          "weight": 15
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:bowl",
-          "weight": 20
+          "weight": 15
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:beetroot_soup",
-          "weight": 20
+          "weight": 15
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:glass_bottle",
-          "weight": 20
+          "weight": 15
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:paper",
-          "weight": 20
+          "weight": 15
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_nugget",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_nugget",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget",
+          "weight": 5
         },
         {
           "type": "minecraft:item",

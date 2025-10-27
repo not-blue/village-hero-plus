@@ -25,6 +25,11 @@
           "name": "minecraft:potato",
           "weight": 25
         },
+                {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_nugget",
+          "weight": 25
+        },
         {
           "type": "minecraft:item",
           "name": "minecraft:totem_of_undying",
