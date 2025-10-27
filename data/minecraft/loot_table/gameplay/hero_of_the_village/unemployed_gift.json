@@ -291,14 +291,14 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_forest_unemployed_gift",
+              "name": "village_hero:village_pale_garden_unemployed_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "biomes": "#village_hero:has_structure/village_forest"
+                    "biomes": "#village_hero:has_structure/village_pale_garden"
                   }
                 }
               ]
@@ -313,6 +313,20 @@
                   "condition": "minecraft:location_check",
                   "predicate": {
                     "biomes": "#village_hero:has_structure/village_birch"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_forest_unemployed_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_forest"
                   }
                 }
               ]

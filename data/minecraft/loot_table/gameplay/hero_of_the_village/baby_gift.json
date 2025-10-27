@@ -206,6 +206,34 @@
             },
             {
               "type": "minecraft:tag",
+              "name": "village_hero:village_pumpkin_baby_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_pumpkin"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
+              "name": "village_hero:village_nether_baby_gift",
+              "expand": true,
+              "weight": 10,
+              "conditions": [
+                {
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biomes": "#village_hero:has_structure/village_nether"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:tag",
               "name": "village_hero:village_end_baby_gift",
               "expand": true,
               "weight": 10,
@@ -300,14 +328,14 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_forest_baby_gift",
+              "name": "village_hero:village_pale_garden_baby_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "biomes": "#village_hero:has_structure/village_forest"
+                    "biomes": "#village_hero:has_structure/village_pale_garden"
                   }
                 }
               ]
@@ -328,28 +356,14 @@
             },
             {
               "type": "minecraft:tag",
-              "name": "village_hero:village_pumpkin_baby_gift",
+              "name": "village_hero:village_forest_baby_gift",
               "expand": true,
               "weight": 10,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
                   "predicate": {
-                    "biomes": "#village_hero:has_structure/village_pumpkin"
-                  }
-                }
-              ]
-            },
-            {
-              "type": "minecraft:tag",
-              "name": "village_hero:village_nether_baby_gift",
-              "expand": true,
-              "weight": 10,
-              "conditions": [
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biomes": "#village_hero:has_structure/village_nether"
+                    "biomes": "#village_hero:has_structure/village_forest"
                   }
                 }
               ]

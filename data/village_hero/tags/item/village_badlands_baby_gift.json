@@ -4,6 +4,11 @@
       "minecraft:cactus",
       "minecraft:carrot",
       "minecraft:clay_ball",
-      "minecraft:gold_nugget"
+      "minecraft:gold_nugget",
+      "minecraft:cactus_flower",
+      "minecraft:leaf_litter",
+      "minecraft:short_dry_grass",
+      "minecraft:tall_dry_grass",
+      "minecraft:firefly_bush"
     ]
   }

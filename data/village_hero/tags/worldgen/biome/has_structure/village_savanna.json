@@ -142,10 +142,6 @@
       "required": false
     },
     {
-      "id": "wilderwild:arid_savanna",
-      "required": false
-    },
-    {
       "id": "wythers:dry_savanna",
       "required": false
     },

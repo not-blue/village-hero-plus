@@ -125,10 +125,6 @@
 		"required": false
 	},
 	{
-		"id": "wilderwild:rainforest",
-		"required": false
-	},
-	{
 		"id": "wythers:sandy_jungle",
 		"required": false
 	},

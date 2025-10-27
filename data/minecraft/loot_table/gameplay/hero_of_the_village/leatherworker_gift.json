@@ -38,7 +38,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:item_frame",
-          "weight": 25,
+          "weight": 20,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -53,7 +53,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:bundle",
-          "weight": 20
+          "weight": 15
         },
         {
           "type": "minecraft:item",
@@ -118,7 +118,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:cauldron",
-          "weight": 15
+          "weight": 10
         },
         {
           "type": "minecraft:item",
@@ -132,8 +132,88 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:red_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:orange_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:yellow_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lime_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:green_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cyan_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_blue_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:purple_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:magenta_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pink_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:white_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_gray_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gray_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:brown_harness",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:phantom_membrane",
-          "weight": 5,
+          "weight": 4,
           "quality": 30,
           "functions": [
             {

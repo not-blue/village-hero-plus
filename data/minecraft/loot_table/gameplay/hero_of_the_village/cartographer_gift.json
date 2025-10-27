@@ -29,8 +29,24 @@
         },
         {
           "type": "minecraft:item",
+          "name": "minecraft:lodestone",
+          "weight": 30,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              },
+              "add": false
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:item_frame",
-          "weight": 40,
+          "weight": 30,
           "quality": 1,
           "functions": [
             {
@@ -46,7 +62,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:glow_item_frame",
-          "weight": 30,
+          "weight": 20,
           "quality": 1,
           "functions": [
             {
@@ -64,22 +80,6 @@
           "name": "minecraft:spyglass",
           "weight": 10,
           "quality": 10
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:lodestone",
-          "weight": 10,
-          "quality": 40,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 4
-              },
-              "add": false
-            }
-          ]
         },
         {
           "type": "minecraft:item",
