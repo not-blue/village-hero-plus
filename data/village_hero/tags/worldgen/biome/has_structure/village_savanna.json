@@ -54,6 +54,10 @@
       "required": false
     },
     {
+      "id": "floravive:verdant_savanna",
+      "required": false
+    },
+    {
       "id": "jermsy:shrubland",
       "required": false
     },

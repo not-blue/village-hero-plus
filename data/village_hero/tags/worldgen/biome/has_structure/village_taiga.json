@@ -120,6 +120,10 @@
       "required": false
     },
     {
+      "id": "floravive:boreal_plains",
+      "required": false
+    },
+    {
       "id": "projectvibrantjourneys:boreal_forest",
       "required": false
     },

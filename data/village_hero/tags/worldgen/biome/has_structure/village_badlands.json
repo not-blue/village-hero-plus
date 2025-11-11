@@ -5,6 +5,10 @@
 	"minecraft:eroded_badlands",
 	"#minecraft:is_badlands",
 	{
+     	"id": "#c:is_badlands",
+      	"required": false
+    },
+	{
 		"id": "biomeswevegone:atacama_desert",
 		"required": false
 	},
