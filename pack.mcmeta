@@ -1,7 +1,16 @@
 {
   "pack": {
     "min_format": [88, 0],
-    "max_format": [88, 0],
+    "max_format": [999, 0],
     "description": "Get better loot from villagers after defeating a raid."
-  }
+  },
+  "overlays": {
+		"entries": [
+			{
+				"min_format": [93, 0],
+				"max_format": [999, 0],
+				"directory": "overlay_snapshot"
+			}
+		]
+	}
 }
