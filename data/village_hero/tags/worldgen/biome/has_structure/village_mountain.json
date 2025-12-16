@@ -5,6 +5,14 @@
         "minecraft:jagged_peaks",
         "minecraft:grove",
         {
+            "id": "#c:is_mountain",
+            "required": false
+        },
+        {
+            "id": "#forge:is_mountain",
+            "required": false
+        },
+        {
             "id": "biomeswevegone:skyris_vale",
             "required": false
         },

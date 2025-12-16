@@ -8,6 +8,10 @@
     "minecraft:old_growth_pine_taiga",
     "minecraft:grove",
     {
+      "id": "#c:is_taiga",
+      "required": false
+    },
+    {
       "id": "biomesoplenty:mediterranean_taiga",
       "required": false
     },

@@ -10,6 +10,18 @@
         "minecraft:ocean",
         "minecraft:deep_ocean",
         {
+            "id": "#c:is_deep_ocean",
+            "required": false
+        },
+        {
+            "id": "#c:is_ocean",
+            "required": false
+        },
+        {
+            "id": "#c:is_shallow_ocean",
+            "required": false
+        },
+        {
             "id": "cynic:ocean_trench",
             "required": false
         },

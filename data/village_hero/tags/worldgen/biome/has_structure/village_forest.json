@@ -5,6 +5,14 @@
         "minecraft:windswept_forest",
         "minecraft:flower_forest",
         {
+            "id": "#c:is_flower_forest",
+            "required": false
+        },
+        {
+            "id": "#c:is_forest",
+            "required": false
+        },
+        {
             "id": "biomesoplenty:old_growth_woodland",
             "required": false
         },

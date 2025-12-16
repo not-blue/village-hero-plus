@@ -5,6 +5,14 @@
     "minecraft:meadow",
     "minecraft:sunflower_plains",
     {
+      "id": "#c:is_plains",
+      "required": false
+    },
+    {
+      "id": "#forge:is_plains",
+      "required": false
+    },
+    {
       "id": "biomesoplenty:grassland",
       "required": false
     },

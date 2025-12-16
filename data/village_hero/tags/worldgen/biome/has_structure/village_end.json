@@ -7,6 +7,18 @@
 		"minecraft:small_end_islands",
 		"minecraft:the_end",
 		{
+			"id": "#c:is_end",
+			"required": false
+		},
+		{
+			"id": "#c:is_outer_end_island",
+			"required": false
+		},
+		{
+			"id": "#forge:is_end",
+			"required": false
+		},
+		{
 			"id": "betterend:amber_land",
 			"required": false
 		},
