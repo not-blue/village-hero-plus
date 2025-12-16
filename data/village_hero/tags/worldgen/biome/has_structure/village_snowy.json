@@ -14,6 +14,22 @@
     "minecraft:snowy_slopes", 
     "minecraft:grove",
     {
+      "id": "#c:is_icy",
+      "required": false
+    },
+    {
+      "id": "#c:is_snowy",
+      "required": false
+    },
+    {
+      "id": "#c:is_snowy_plains",
+      "required": false
+    },
+    {
+      "id": "#forge:is_snowy",
+      "required": false
+    },
+    {
       "id": "biomesoplenty:cold_desert",
       "required": false
     },

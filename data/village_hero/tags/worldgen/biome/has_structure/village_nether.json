@@ -7,6 +7,18 @@
         "minecraft:soul_sand_valley",
         "minecraft:basalt_deltas",
         {
+            "id": "#c:is_nether",
+            "required": false
+        },
+        {
+            "id": "#c:is_nether_forest",
+            "required": false
+        },
+        {
+            "id": "#forge:is_nether",
+            "required": false
+        },
+        {
             "id": "an:wart_heap",
             "required": false
         },
