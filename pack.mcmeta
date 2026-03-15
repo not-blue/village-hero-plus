@@ -10,6 +10,11 @@
 				"min_format": [93, 0],
 				"max_format": [999, 0],
 				"directory": "overlay_94"
+			},
+			{
+				"min_format": [101, 0],
+				"max_format": [999, 0],
+				"directory": "overlay_26-1"
 			}
 		]
 	}
