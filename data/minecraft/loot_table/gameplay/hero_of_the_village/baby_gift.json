@@ -8,31 +8,37 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:poppy",
-          "weight": 25
+          "weight": 50
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:dandelion",
-          "weight": 25
+          "weight": 50
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:stick",
-          "weight": 25
+          "weight": 50
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:potato",
-          "weight": 25
+          "weight": 50
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:copper_nugget",
-          "weight": 25
+          "weight": 50
         },
         {
           "type": "minecraft:item",
           "name": "minecraft:totem_of_undying",
+          "weight": 1,
+          "quality": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_dandelion",
           "weight": 1,
           "quality": 100
         },
@@ -46,12 +52,12 @@
                   "type": "minecraft:tag",
                   "name": "village_hero:village_desert_baby_gift",
                   "expand": true,
-                  "weight": 10
+                  "weight": 20
                 },
                 {
                   "type": "minecraft:item",
                   "name": "minecraft:dead_bush",
-                  "weight": 50
+                  "weight": 100
                 }
               ],
               "conditions": [
@@ -67,7 +73,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_plains_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -81,7 +87,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_savanna_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -98,12 +104,12 @@
                   "type": "minecraft:tag",
                   "name": "village_hero:village_snowy_baby_gift",
                   "expand": true,
-                  "weight": 10
+                  "weight": 20
                 },
                 {
                   "type": "minecraft:item",
                   "name": "minecraft:snowball",
-                  "weight": 50
+                  "weight": 100
                 }
               ],
               "conditions": [
@@ -122,12 +128,12 @@
                   "type": "minecraft:tag",
                   "name": "village_hero:village_taiga_baby_gift",
                   "expand": true,
-                  "weight": 10
+                  "weight": 20
                 },
                 {
                   "type": "minecraft:item",
                   "name": "minecraft:sweet_berries",
-                  "weight": 50
+                  "weight": 100
                 }
               ],
               "conditions": [
@@ -143,7 +149,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_cherry_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -157,7 +163,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_badlands_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -171,7 +177,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_swamp_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -185,7 +191,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_beach_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -199,7 +205,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_dark_forest_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -213,7 +219,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_pumpkin_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -227,7 +233,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_nether_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -241,7 +247,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_end_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -258,12 +264,12 @@
                   "type": "minecraft:tag",
                   "name": "village_hero:village_lush_caves_baby_gift",
                   "expand": true,
-                  "weight": 10
+                  "weight": 20
                 },
                 {
                   "type": "minecraft:item",
                   "name": "minecraft:glow_berries",
-                  "weight": 40
+                  "weight": 80
                 }
               ],
               "conditions": [
@@ -279,7 +285,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_mangrove_swamp_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -293,7 +299,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_mushroom_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -307,7 +313,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_ocean_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -321,7 +327,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_sky_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -335,7 +341,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_pale_garden_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -349,7 +355,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_birch_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -363,7 +369,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_forest_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
@@ -377,7 +383,7 @@
               "type": "minecraft:tag",
               "name": "village_hero:village_jungle_baby_gift",
               "expand": true,
-              "weight": 10,
+              "weight": 20,
               "conditions": [
                 {
                   "condition": "minecraft:location_check",
